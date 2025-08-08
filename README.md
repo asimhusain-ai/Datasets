@@ -5,7 +5,7 @@ This collection is organized into directories based on the type of machine learn
 
 
 **✍️ Author**
-Uploaded with ❤️ by - Asim Husain (asimhusain.vercel.app)
+Uploaded with ❤️ by - Asim Husain (https://asimhusain.vercel.app)
 
 **📜 License**
 The code and scripts in this repository are licensed under the MIT License. The datasets themselves may be subject to their own original licenses; please check the README.md file within each dataset's directory for specific license information.
