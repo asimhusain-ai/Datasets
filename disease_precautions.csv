@@ -1,0 +1,793 @@
+Disease,Precaution_1,Precaution_2,Precaution_3,Precaution_4
+Drug Reaction,stop irritation,consult nearest hospital,stop taking drug,follow up
+Malaria,Consult nearest hospital,avoid oily food,avoid non veg food,keep mosquitos out
+Allergy,apply calamine,cover area with bandage,,use ice to compress itching
+Hypothyroidism,reduce stress,exercise,eat healthy,get proper sleep
+Psoriasis,wash hands with warm soapy water,stop bleeding using pressure,consult doctor,salt baths
+GERD,avoid fatty spicy food,avoid lying down after eating,maintain healthy weight,exercise
+Chronic cholestasis,cold baths,anti itch medicine,consult doctor,eat healthy
+hepatitis A,Consult nearest hospital,wash hands through,avoid fatty spicy food,medication
+Osteoarthristis,acetaminophen,consult nearest hospital,follow up,salt baths
+(vertigo) Paroymsal  Positional Vertigo,lie down,avoid sudden change in body,avoid abrupt head movment,relax
+Hypoglycemia,lie down on side,check in pulse,drink sugary drinks,consult doctor
+Acne,bath twice,avoid fatty spicy food,drink plenty of water,avoid too many products
+Diabetes ,have balanced diet,exercise,consult doctor,follow up
+Impetigo,soak affected area in warm water,use antibiotics,remove scabs with wet compressed cloth,consult doctor
+Hypertension ,meditation,salt baths,reduce stress,get proper sleep
+Peptic ulcer diseae,avoid fatty spicy food,consume probiotic food,eliminate milk,limit alcohol
+Dimorphic hemmorhoids(piles),avoid fatty spicy food,consume witch hazel,warm bath with epsom salt,consume alovera juice
+Common Cold,drink vitamin c rich drinks,take vapour,avoid cold food,keep fever in check
+Chicken pox,use neem in bathing ,consume neem leaves,take vaccine,avoid public places
+Cervical spondylosis,use heating pad or cold pack,exercise,take otc pain reliver,consult doctor
+Hyperthyroidism,eat healthy,massage,use lemon balm,take radioactive iodine treatment
+Urinary tract infection,drink plenty of water,increase vitamin c intake,drink cranberry juice,take probiotics
+Varicose veins,lie down flat and raise the leg high,use oinments,use vein compression,dont stand still for long
+AIDS,avoid open cuts,wear ppe if possible,consult doctor,follow up
+Paralysis (brain hemorrhage),massage,eat healthy,exercise,consult doctor
+Typhoid,eat high calorie vegitables,antiboitic therapy,consult doctor,medication
+Hepatitis B,consult nearest hospital,vaccination,eat healthy,medication
+Fungal infection,bath twice,use detol or neem in bathing water,keep infected area dry,use clean cloths
+Hepatitis C,Consult nearest hospital,vaccination,eat healthy,medication
+Migraine,meditation,reduce stress,use poloroid glasses in sun,consult doctor
+Bronchial Asthma,switch to loose cloothing,take deep breaths,get away from trigger,seek help
+Alcoholic hepatitis,stop alcohol consumption,consult doctor,medication,follow up
+Jaundice,drink plenty of water,consume milk thistle,eat fruits and high fiberous food,medication
+Hepatitis E,stop alcohol consumption,rest,consult doctor,medication
+Dengue,drink papaya leaf juice,avoid fatty spicy food,keep mosquitos away,keep hydrated
+Hepatitis D,consult doctor,medication,eat healthy,follow up
+Heart attack,call ambulance,chew or swallow asprin,keep calm,
+Pneumonia,consult doctor,medication,rest,follow up
+Arthritis,exercise,use hot and cold therapy,try acupuncture,massage
+Gastroenteritis,stop eating solid food for while,try taking small sips of water,rest,ease back into eating
+Tuberculosis,cover mouth,consult doctor,medication,rest
+Influenza,Get annual flu vaccine,Wash hands frequently,Avoid touching face,Stay home when sick
+Tuberculosis,Get BCG vaccination,Ensure good ventilation,Maintain a healthy immune system,Wear a mask in high-risk areas
+HIV/AIDS,Use condoms during sex,Avoid sharing needles,Get tested regularly,Consider PrEP if at high risk
+Measles,Get MMR vaccine,Avoid contact with infected persons,Practice good hygiene,Boost immune system
+Mumps,Get MMR vaccine,Avoid sharing utensils,Isolate infected individuals,Wash hands regularly
+Rubella,Get MMR vaccine,Avoid contact with infected persons,Ensure vaccination before pregnancy,Practice good hygiene
+Polio,Get polio vaccine,Practice good sanitation,Drink safe water,Wash hands thoroughly
+Tetanus,Get Tdap/DTaP vaccine,Clean wounds properly,Avoid rusty objects,Get booster shots every 10 years
+Diphtheria,Get Tdap/DTaP vaccine,Avoid contact with infected persons,Practice good hygiene,Isolate infected individuals
+Pertussis (Whooping Cough),Get Tdap/DTaP vaccine,Avoid contact with infected persons,Practice good hygiene,Isolate infected individuals
+Rotavirus,Get rotavirus vaccine,Wash hands after diaper changes,Clean and disinfect surfaces,Ensure safe food and water
+Hepatitis A,Get Hepatitis A vaccine,Wash hands after using bathroom,Drink safe water,Cook food thoroughly
+Hepatitis B,Get Hepatitis B vaccine,Avoid sharing needles,Practice safe sex,Avoid sharing personal items like razors
+Hepatitis C,Avoid sharing needles,Use sterile tattoo/piercing equipment,Practice safe sex,Avoid sharing personal items
+Human Papillomavirus (HPV),Get HPV vaccine,Practice safe sex,Get regular Pap tests,Limit number of sexual partners
+Meningitis,Get meningococcal vaccine,Avoid close contact with sick people,Don't share drinks or utensils,Wash hands often
+Pneumonia,Get pneumococcal vaccine,Wash hands frequently,Don't smoke,Manage chronic illnesses
+Cholera,Drink boiled or treated water,Eat well-cooked food,Wash hands with soap,Use latrines for defecation
+Typhoid Fever,Get typhoid vaccine,Drink safe water,Eat hygienic food,Wash hands regularly
+Dysentery,Wash hands with soap,Drink safe water,Cook food thoroughly,Avoid street food
+Giardiasis,Drink safe filtered water,Wash hands properly,Avoid swallowing water while swimming,Peel or wash raw fruits/vegetables
+Amoebiasis,Drink clean water,Wash hands with soap,Avoid unhygienic food,Properly dispose of sewage
+Malaria,Use mosquito nets,Use insect repellent,Take antimalarial drugs in endemic areas,Wear long-sleeved clothing
+Dengue Fever,Eliminate mosquito breeding sites,Use mosquito repellent,Wear protective clothing,Install window screens
+Chikungunya,Use mosquito repellent,Eliminate stagnant water,Wear long-sleeved clothes,Use mosquito nets
+Zika Virus,Use mosquito repellent,Practice safe sex,Eliminate stagnant water,Wear protective clothing
+Yellow Fever,Get yellow fever vaccine,Use mosquito repellent,Wear protective clothing,Eliminate mosquito breeding sites
+West Nile Virus,Use insect repellent,Remove standing water,Wear protective clothing,Repair window screens
+Lyme Disease,Use insect repellent with DEET,Check for ticks after being outdoors,Wear long pants and sleeves in grassy areas,Remove ticks promptly and correctly
+Rabies,Vaccinate pets,Avoid contact with wild animals,Seek immediate medical care after a bite,Report stray animals
+Anthrax,Avoid contact with infected animals,Handle animal products with care,Seek medical attention for skin lesions,Do not consume meat from sick animals
+Leptospirosis,Avoid swimming in contaminated water,Wear protective clothing,Control rodent population,Keep environment clean
+Plague,Avoid contact with rodents and fleas,Use insect repellent,Avoid handling sick or dead animals,Seek early medical treatment
+Ebola,Avoid contact with infected individuals' body fluids,Practice strict hygiene,Cook meat thoroughly,Avoid contact with bats and primates
+Marburg Virus,Avoid contact with fruit bats,Avoid mines or caves inhabited by bats,Practice safe burial practices,Isolate infected patients
+Lassa Fever,Avoid contact with rodents,Store food in rodent-proof containers,Maintain clean household,Use PPE when caring for patients
+Hantavirus,Avoid contact with rodent droppings,Ventilate closed spaces before entering,Use traps to control rodents,Seal holes in homes
+Salmonellosis,Cook poultry and eggs thoroughly,Wash hands after handling raw meat,Avoid cross-contamination in kitchen,Refrigerate food promptly
+E. coli Infection,Cook ground beef thoroughly,Wash hands after using the bathroom,Avoid unpasteurized milk,Wash fruits and vegetables
+Campylobacteriosis,Cook poultry thoroughly,Drink pasteurized milk,Wash hands after contact with pets,Prevent cross-contamination
+Listeriosis,Avoid unpasteurized dairy products,Cook ready-to-eat meats thoroughly,Wash raw vegetables,Avoid soft cheeses if pregnant
+Botulism,Avoid improperly canned foods,Do not give honey to infants,Refrigerate oils with garlic,Seek immediate medical care
+Staphylococcus Aureus (Staph) Infection,Wash hands regularly,Keep cuts and scrapes clean and covered,Avoid sharing personal items,Clean shared surfaces
+MRSA Infection,Practice good hygiene,Keep wounds covered,Avoid sharing personal items,Wash laundry thoroughly
+Strep Throat,Wash hands frequently,Avoid sharing utensils,Cover mouth when coughing/sneezing,Avoid close contact with sick people
+Scarlet Fever,Practice good hand hygiene,Avoid sharing personal items,Isolate the infected person,Consult a doctor for treatment
+Rheumatic Fever,Treat strep throat promptly with antibiotics,Practice good hygiene,Maintain good oral health,Follow up with doctor
+Impetigo,Keep skin clean,Wash hands regularly,Avoid scratching sores,Don't share towels or clothing
+Cellulitis,Keep skin clean and moisturized,Treat wounds promptly,Manage chronic conditions like diabetes,Wear proper footwear
+Ringworm,Keep skin clean and dry,Avoid sharing personal items,Wear clean clothes,Treat infected pets
+Athlete's Foot,Keep feet clean and dry,Wear breathable shoes,Change socks daily,Avoid walking barefoot in public areas
+Jock Itch,Keep groin area clean and dry,Wear loose-fitting underwear,Change clothes after exercising,Avoid sharing towels
+Candidiasis (Yeast Infection),Maintain good hygiene,Wear cotton underwear,Avoid douching,Control blood sugar levels
+Scabies,Avoid direct skin-to-skin contact,Wash bedding and clothing in hot water,Treat all household members,Vacuum carpets and furniture
+Head Lice,Avoid head-to-head contact,Don't share hats or hairbrushes,Check children's hair regularly,Follow treatment instructions carefully
+Pubic Lice (Crabs),Avoid sexual contact with infected persons,Avoid sharing clothes or bedding,Treat all sexual partners,Wash items in hot water
+Chlamydia,Use condoms consistently,Get tested regularly,Limit sexual partners,Ensure partners are treated
+Gonorrhea,Use condoms correctly,Get regular STI screenings,Limit sexual partners,Avoid douching
+Syphilis,Use condoms during sexual activity,Get tested for STIs regularly,Limit number of sexual partners,Seek prompt treatment
+Trichomoniasis,Use condoms,Get regular check-ups,Ensure all partners are treated,Avoid sharing sex toys
+Genital Herpes,Use condoms,Avoid sex during an outbreak,Take antiviral medication,Disclose status to partners
+Crabs (Pubic Lice),Avoid sexual or close body contact,Do not share clothing or bedding,Machine wash all items in hot water,Treat all partners
+Norovirus,Wash hands thoroughly with soap,Clean and disinfect surfaces,Wash laundry thoroughly,Stay home when sick
+Asthma,Identify and avoid triggers,Take prescribed medications,Use an air purifier,Follow an asthma action plan
+Chronic Obstructive Pulmonary Disease (COPD),Stop smoking,Avoid air pollution,Get vaccinated (flu/pneumonia),Engage in regular exercise
+Emphysema,Quit smoking,Avoid secondhand smoke,Use protective gear in dusty environments,Get regular checkups
+Chronic Bronchitis,Do not smoke,Avoid lung irritants,Use a humidifier,Practice good hygiene
+Cystic Fibrosis,Follow treatment plan,Practice airway clearance techniques,Maintain a high-calorie diet,Prevent infections
+Pulmonary Fibrosis,Stop smoking,Avoid environmental pollutants,Get vaccinated,Manage GERD
+Lung Cancer,Don't smoke,Avoid secondhand smoke,Test home for radon,Avoid carcinogens at work
+Mesothelioma,Avoid asbestos exposure,Wear protective equipment,Follow safety procedures at work,Seek medical advice if exposed
+Hypertension (High Blood Pressure),Reduce salt intake,Maintain a healthy weight,Exercise regularly,Limit alcohol consumption
+Coronary Artery Disease,Eat a heart-healthy diet,Exercise regularly,Manage stress,Control cholesterol levels
+Heart Attack (Myocardial Infarction),Control blood pressure,Manage cholesterol,Don't smoke,Maintain a healthy lifestyle
+Stroke,Control blood pressure,Manage diabetes,Maintain a healthy weight,Limit alcohol intake
+Heart Failure,Follow a low-sodium diet,Take medications as prescribed,Monitor for symptoms,Stay physically active
+Atrial Fibrillation,Manage high blood pressure,Limit alcohol and caffeine,Maintain a healthy weight,Control underlying conditions
+Peripheral Artery Disease,Quit smoking,Exercise regularly,Manage diabetes and cholesterol,Eat a healthy diet
+Deep Vein Thrombosis (DVT),Stay active and move regularly,Stay hydrated,Maintain a healthy weight,Avoid long periods of inactivity
+Pulmonary Embolism,Prevent DVT,Move around during long travel,Stay hydrated,Discuss risks with your doctor
+Anemia,Eat iron-rich foods,Consume vitamin C to aid iron absorption,Avoid excessive tea or coffee with meals,Get regular checkups
+Iron-Deficiency Anemia,Increase intake of iron-rich foods,Take iron supplements if prescribed,Eat foods high in vitamin C,Cook in cast-iron pots
+Vitamin B12 Deficiency Anemia,Eat foods rich in B12 (meat, dairy),Take B12 supplements if needed,Consult a doctor for injections
+Folate-Deficiency Anemia,Eat foods high in folic acid (leafy greens),Take folic acid supplements,Avoid overcooking vegetables,Limit alcohol consumption
+Sickle Cell Anemia,Stay hydrated,Avoid extreme temperatures,Prevent infections,Get regular medical care
+Thalassemia,Get regular medical checkups,Follow treatment plan,Avoid excess iron,Consider genetic counseling
+Hemophilia,Avoid injury-prone activities,Practice good dental hygiene,Take factor replacement therapy,Wear medical alert bracelet
+Leukemia,Avoid exposure to chemicals like benzene,Avoid high doses of radiation,Don't smoke,Maintain a healthy lifestyle
+Lymphoma,Maintain a healthy immune system,Avoid exposure to certain viruses,Limit exposure to pesticides,Get regular checkups
+Myeloma,Avoid exposure to radiation,Limit exposure to certain chemicals,Maintain a healthy lifestyle,Report persistent bone pain
+Diabetes Mellitus (Type 1),Monitor blood sugar regularly,Administer insulin as prescribed,Follow a balanced meal plan,Exercise regularly
+Diabetes Mellitus (Type 2),Maintain a healthy weight,Eat a balanced diet,Engage in regular physical activity,Monitor blood glucose levels
+Gestational Diabetes,Eat a healthy diet,Stay active during pregnancy,Monitor blood sugar,Attend all prenatal appointments
+Hypoglycemia,Eat regular meals and snacks,Monitor blood sugar levels,Carry a source of fast-acting sugar,Limit alcohol consumption
+Hyperglycemia,Monitor blood sugar,Follow diabetes management plan,Stay hydrated,Adjust medication as advised
+Hypothyroidism,Take thyroid medication as prescribed,Eat a balanced diet,Manage stress,Get regular exercise
+Hyperthyroidism,Take prescribed medications,Avoid excessive iodine intake,Manage stress,Get regular checkups
+Goiter,Ensure adequate iodine intake,Avoid foods that interfere with thyroid function,Get regular thyroid checks,Seek medical advice for swelling
+Hashimoto's Disease,Take thyroid hormone replacement,Eat an anti-inflammatory diet,Manage stress,Get regular blood tests
+Graves' Disease,Take anti-thyroid medication,Consider radioiodine therapy or surgery,Protect your eyes,Manage stress
+Cushing's Syndrome,Follow doctor's advice on steroid use,Monitor for symptoms,Maintain a healthy lifestyle,Seek treatment for tumors
+Addison's Disease,Take corticosteroid medication regularly,Wear a medical alert bracelet,Have an emergency steroid injection kit,Increase salt intake if advised
+Polycystic Ovary Syndrome (PCOS),Maintain a healthy weight,Eat a low-glycemic diet,Exercise regularly,Manage stress
+Endometriosis,Use hormonal birth control,Manage pain with OTC relievers,Exercise regularly,Consider dietary changes
+Uterine Fibroids,Monitor symptoms,Maintain a healthy weight,Eat a balanced diet,Consider hormonal treatments
+Ovarian Cysts,Get regular pelvic exams,Be aware of symptoms,Maintain a healthy lifestyle,Follow up on any abnormalities
+Pelvic Inflammatory Disease (PID),Practice safe sex,Get regular STI testing,Avoid douching,Seek prompt treatment for STIs
+Ectopic Pregnancy,Practice safe sex to prevent PID,Seek early prenatal care,Be aware of risk factors,Report any unusual symptoms
+Menopause,Eat a balanced diet rich in calcium,Engage in weight-bearing exercise,Manage stress,Discuss hormone therapy with a doctor
+Prostate Cancer,Get regular screenings (PSA test),Maintain a healthy diet,Exercise regularly,Be aware of family history
+Benign Prostatic Hyperplasia (BPH),Limit fluids before bedtime,Reduce caffeine and alcohol,Urinate when you first feel the urge,Maintain a healthy weight
+Testicular Cancer,Perform monthly self-examinations,Be aware of family history,Seek medical attention for lumps,Maintain a healthy lifestyle
+Erectile Dysfunction,Maintain a healthy lifestyle,Manage chronic conditions,Quit smoking and limit alcohol,Communicate with your partner
+Kidney Stones,Stay hydrated,Eat a balanced diet low in oxalate,Reduce sodium intake,Maintain a healthy weight
+Urinary Tract Infection (UTI),Drink plenty of water,Wipe from front to back,Urinate after intercourse,Avoid irritating feminine products
+Interstitial Cystitis,Avoid trigger foods and drinks,Manage stress,Wear loose-fitting clothing,Try bladder training
+Kidney Failure (Renal Failure),Manage diabetes and high blood pressure,Avoid NSAIDs if at risk,Maintain a healthy diet,Don't smoke
+Glomerulonephritis,Control high blood pressure,Reduce salt and protein intake,Treat infections promptly,Manage underlying conditions
+Polycystic Kidney Disease (PKD),Control blood pressure,Stay hydrated,Avoid contact sports,Follow a low-sodium diet
+Gastroesophageal Reflux Disease (GERD),Avoid trigger foods (spicy, fatty),Eat smaller meals,Don't lie down after eating
+Peptic Ulcer,Avoid NSAIDs,Limit alcohol and spicy foods,Stop smoking,Manage stress
+Gastritis,Avoid alcohol and spicy foods,Eat smaller, more frequent meals,Manage stress
+Irritable Bowel Syndrome (IBS),Identify and avoid trigger foods,Manage stress,Eat a high-fiber diet,Exercise regularly
+Crohn's Disease,Follow a prescribed diet,Take medications as directed,Manage stress,Avoid smoking
+Ulcerative Colitis,Take medication consistently,Avoid trigger foods,Stay hydrated,Manage stress
+Celiac Disease,Follow a strict gluten-free diet,Read food labels carefully,Prevent cross-contamination,Get regular nutritional checkups
+Diverticulitis,Eat a high-fiber diet,Drink plenty of fluids,Exercise regularly,Avoid straining during bowel movements
+Hemorrhoids,Eat a high-fiber diet,Stay hydrated,Avoid straining,Don't sit on the toilet for long periods
+Appendicitis,Seek immediate medical attention for abdominal pain,Do not take laxatives,Avoid eating or drinking,Follow up after surgery
+Gallstones,Maintain a healthy weight,Eat a balanced, low-fat diet,Avoid rapid weight loss
+Cholecystitis,Maintain a healthy weight,Eat a low-fat diet,Manage diabetes,Seek treatment for gallstones
+Pancreatitis,Limit alcohol consumption,Maintain a healthy weight,Don't smoke,Eat a low-fat diet
+Cirrhosis,Avoid alcohol,Maintain a healthy weight,Prevent hepatitis infections,Manage underlying causes
+Fatty Liver Disease (NAFLD),Maintain a healthy weight,Eat a balanced diet,Exercise regularly,Limit alcohol intake
+Jaundice,Treat the underlying condition,Stay hydrated,Get adequate rest,Avoid alcohol
+Colon Cancer,Get regular screenings (colonoscopy),Eat a high-fiber, low-fat diet,Maintain a healthy weight
+Stomach Cancer,Treat H. pylori infection,Eat a diet rich in fruits and vegetables,Reduce salt-cured and smoked foods,Don't smoke
+Esophageal Cancer,Avoid smoking and alcohol,Manage GERD,Maintain a healthy weight,Eat a diet rich in fruits/vegetables
+Liver Cancer,Get vaccinated for Hepatitis B,Prevent Hepatitis C,Limit alcohol consumption,Maintain a healthy weight
+Pancreatic Cancer,Don't smoke,Maintain a healthy weight,Limit alcohol,Manage diabetes
+Alzheimer's Disease,Engage in regular mental stimulation,Stay physically active,Eat a brain-healthy diet,Manage cardiovascular risk factors
+Parkinson's Disease,Exercise regularly,Eat a balanced diet,Take precautions to prevent falls,Follow medication schedule
+Epilepsy,Take anti-seizure medication as prescribed,Get enough sleep,Avoid triggers like flashing lights,Wear a medical ID bracelet
+Multiple Sclerosis (MS),Follow treatment plan,Manage stress,Stay as active as possible,Avoid overheating
+Amyotrophic Lateral Sclerosis (ALS),Follow medical advice for symptom management,Use assistive devices,Get nutritional support,Participate in physical therapy
+Huntington's Disease,Follow medical care plan,Consider genetic counseling,Stay physically and mentally active,Ensure a safe environment
+Dementia,Stay mentally and socially active,Exercise regularly,Eat a healthy diet,Manage cardiovascular health
+Migraine,Identify and avoid triggers,Manage stress,Maintain a regular sleep schedule,Stay hydrated
+Cluster Headache,Avoid alcohol and smoking,Maintain a regular sleep pattern,Follow prescribed treatment plan,Stay in a cool
+Tension Headache,Manage stress,Practice good posture,Get regular exercise,Take breaks from screens
+Concussion,Wear protective headgear,Avoid high-risk activities,Rest after injury,Follow medical advice for return to play
+Traumatic Brain Injury (TBI),Wear helmets and seatbelts,Prevent falls,Avoid risky behaviors,Supervise children closely
+Spinal Cord Injury,Wear seatbelts,Avoid diving into shallow water,Use safety equipment in sports,Prevent falls
+Cerebral Palsy,Ensure good prenatal care,Prevent premature birth,Avoid maternal infections,Protect infants from injury
+Muscular Dystrophy,Follow physical therapy plan,Use mobility aids,Maintain a healthy weight,Monitor heart and breathing function
+Fibromyalgia,Exercise regularly,Practice stress management,Maintain a consistent sleep schedule,Pace your activities
+Chronic Fatigue Syndrome (CFS),Pace your activities to avoid overexertion,Manage stress,Get adequate rest,Eat a balanced diet
+Restless Legs Syndrome (RLS),Maintain a regular sleep schedule,Avoid caffeine and alcohol,Get regular exercise,Massage legs or take a warm bath
+Insomnia,Stick to a regular sleep schedule,Create a restful environment,Avoid caffeine and large meals before bed,Limit screen time before sleep
+Sleep Apnea,Maintain a healthy weight,Avoid alcohol and sedatives,Sleep on your side,Use a CPAP machine as prescribed
+Narcolepsy,Maintain a regular sleep schedule,Take short, scheduled naps,Avoid caffeine and alcohol
+Anxiety Disorder,Practice relaxation techniques,Get regular exercise,Maintain a healthy diet,Seek therapy and support
+Depression,Stay connected with others,Get regular exercise,Eat a mood-boosting diet,Seek professional help
+Bipolar Disorder,Take medication as prescribed,Maintain a stable routine,Track your moods,Build a strong support system
+Schizophrenia,Adhere to treatment plan,Avoid alcohol and drugs,Manage stress,Build a support network
+Obsessive-Compulsive Disorder (OCD),Follow cognitive-behavioral therapy,Take prescribed medication,Practice stress management,Build a support system
+Post-Traumatic Stress Disorder (PTSD),Seek trauma-focused therapy,Practice grounding techniques,Build a strong support network,Avoid triggers when possible
+Eating Disorders (Anorexia, Bulimia),Seek professional help,Develop a healthy relationship with food,Build a positive body image
+Attention Deficit Hyperactivity Disorder (ADHD),Follow a structured routine,Minimize distractions,Use organizational tools,Get regular exercise
+Autism Spectrum Disorder (ASD),Seek early intervention services,Create a structured environment,Use clear, simple communication
+Rheumatoid Arthritis,Take medications as prescribed,Stay physically active,Balance rest and activity,Eat an anti-inflammatory diet
+Osteoarthritis,Maintain a healthy weight,Exercise regularly,Protect your joints from injury,Use assistive devices if needed
+Gout,Limit purine-rich foods,Stay hydrated,Maintain a healthy weight,Avoid alcohol
+Lupus,Avoid sun exposure,Manage stress,Take medications as prescribed,Get adequate rest
+Psoriasis,Keep skin moisturized,Avoid triggers like stress and alcohol,Take medications as directed,Get moderate sun exposure
+Psoriatic Arthritis,Take prescribed medications,Protect your joints,Maintain a healthy weight,Stay active
+Ankylosing Spondylitis,Exercise and stretch regularly,Practice good posture,Don't smoke,Take medication as prescribed
+Scleroderma,Protect skin from cold,Moisturize skin frequently,Manage GERD,Perform stretching exercises
+Sjogren's Syndrome,Use artificial tears and saliva,Practice good oral hygiene,Stay hydrated,Avoid dry environments
+Acne,Keep skin clean,Avoid harsh scrubbing,Use non-comedogenic products,Don't pick or squeeze pimples
+Eczema (Atopic Dermatitis),Moisturize skin daily,Avoid triggers and irritants,Take lukewarm baths,Use prescribed creams
+Rosacea,Identify and avoid triggers,Use sunscreen daily,Choose gentle skin care products,Manage stress
+Hives (Urticaria),Avoid known allergens or triggers,Take antihistamines,Wear loose clothing,Keep skin cool
+Contact Dermatitis,Identify and avoid the irritant/allergen,Wash skin after contact,Use protective gloves or clothing,Apply soothing lotions
+Seborrheic Dermatitis,Use medicated shampoos,Keep skin clean,Avoid harsh soaps,Manage stress
+Skin Cancer,Use broad-spectrum sunscreen,Wear protective clothing,Avoid peak sun hours,Regularly check skin for new moles
+Melanoma,Limit UV radiation exposure,Perform regular skin self-exams,Know your family history,See a dermatologist for skin checks
+Basal Cell Carcinoma,Protect skin from sun,Avoid tanning beds,Check your skin regularly,Wear a hat and sunglasses
+Squamous Cell Carcinoma,Use sunscreen year-round,Seek shade,Examine your skin head-to-toe monthly,Avoid smoking
+Cataracts,Wear sunglasses that block UV rays,Don't smoke,Eat a diet rich in antioxidants,Manage other health problems
+Glaucoma,Get regular comprehensive eye exams,Know your family history,Wear eye protection,Take prescribed eye drops
+Macular Degeneration,Don't smoke,Eat a diet rich in leafy greens and fish,Maintain a healthy weight,Control blood pressure
+Diabetic Retinopathy,Manage blood sugar levels,Control blood pressure and cholesterol,Get regular dilated eye exams,Don't smoke
+Conjunctivitis (Pink Eye),Wash hands frequently,Avoid touching your eyes,Don't share towels or makeup,Clean contact lenses properly
+Stye,Wash hands before touching eyes,Don't share eye makeup,Keep eyelids clean,Replace makeup regularly
+Dry Eye Syndrome,Use artificial tears,Blink regularly when using screens,Wear sunglasses outdoors,Use a humidifier
+Hearing Loss,Avoid exposure to loud noises,Wear hearing protection,Keep music at a reasonable volume,Get regular hearing checks
+Tinnitus,Protect your ears from loud noise,Manage stress,Reduce alcohol and caffeine intake,Exercise regularly
+Otitis Media (Ear Infection),Wash hands frequently,Avoid secondhand smoke,Get vaccinations,Breastfeed infants
+Otitis Externa (Swimmer's Ear),Keep ears dry,Use earplugs when swimming,Avoid putting objects in your ear,Dry ears thoroughly after swimming
+Vertigo,Avoid sudden changes in position,Sit down during an episode,Avoid caffeine, alcohol
+Meniere's Disease,Follow a low-salt diet,Avoid caffeine and alcohol,Manage stress,Take prescribed medications
+Allergic Rhinitis (Hay Fever),Avoid allergens like pollen and dust,Use an air purifier,Keep windows closed during high pollen seasons,Rinse nasal passages
+Sinusitis,Keep sinuses moist with a humidifier,Rinse nasal passages,Avoid secondhand smoke,Manage allergies
+Pharyngitis (Sore Throat),Wash hands often,Avoid sharing utensils,Gargle with salt water,Rest your voice
+Tonsillitis,Practice good hygiene,Avoid sharing food and drinks,Rest your voice,Treat bacterial infections with antibiotics
+Laryngitis,Rest your voice,Stay hydrated,Avoid whispering,Use a humidifier
+Gingivitis,Brush teeth twice daily,Floss daily,Use antiseptic mouthwash,Get regular dental checkups
+Periodontitis,Practice excellent oral hygiene,Visit the dentist regularly,Don't smoke,Manage diabetes
+Dental Caries (Cavities),Brush and floss daily,Limit sugary foods and drinks,Use fluoride toothpaste,Get regular dental cleanings
+Oral Herpes (Cold Sores),Avoid kissing during an outbreak,Don't share utensils or towels,Manage stress,Use sunblock on lips
+Aphthous Ulcer (Canker Sore),Avoid acidic or spicy foods,Practice good oral hygiene,Reduce stress,Chew carefully
+Oral Thrush,Practice good oral hygiene,Rinse mouth after using inhalers,Clean dentures daily,Manage diabetes
+Osteoporosis,Get enough calcium and vitamin D,Engage in weight-bearing exercise,Avoid smoking and excessive alcohol,Prevent falls
+Scoliosis,Get screened during childhood,Practice good posture,Maintain core strength,Follow medical advice for bracing
+Kyphosis,Practice good posture,Strengthen back and core muscles,Avoid slouching,Use ergonomic chairs
+Lordosis,Maintain a healthy weight,Strengthen core muscles,Stretch tight hip flexors,Practice good posture
+Herniated Disc,Use proper lifting techniques,Maintain a healthy weight,Practice good posture,Strengthen core muscles
+Sciatica,Exercise regularly,Maintain proper posture,Use proper body mechanics,Avoid prolonged sitting
+Carpal Tunnel Syndrome,Take frequent breaks from repetitive tasks,Maintain a neutral wrist posture,Stretch your hands and wrists,Keep hands warm
+Plantar Fasciitis,Wear supportive shoes,Stretch your arches,Maintain a healthy weight,Avoid walking barefoot on hard surfaces
+Tendonitis,Warm up before exercise,Increase activity level gradually,Use proper form and technique,Take rest days
+Bursitis,Avoid repetitive motions,Pad your joints,Stretch and warm up properly,Maintain a healthy weight
+Sprains and Strains,Warm up before activity,Wear proper footwear,Listen to your body,Use supportive braces if needed
+Fractures,Build strong bones with calcium,Wear appropriate protective gear,Prevent falls,Don't take unnecessary risks
+Dislocation,Use protective gear during sports,Avoid falls,Maintain muscle strength around joints,Be cautious on uneven surfaces
+Burns,Install smoke alarms,Keep flammable items away from heat,Set water heater to a safe temperature,Supervise children in the kitchen
+Cuts and Lacerations,Use caution with sharp objects,Keep knives and tools in good condition,Wear protective gloves,Childproof your home
+Poisoning,Store chemicals and medicines safely,Keep products in original containers,Read labels before use,Have poison control number handy
+Insect Bites and Stings,Use insect repellent,Wear protective clothing,Avoid scented products,Be cautious around nests
+Animal Bites,Don't approach unfamiliar animals,Supervise children around pets,Never leave a baby alone with a pet,Vaccinate your pets
+Heat Stroke,Stay hydrated,Avoid strenuous activity in extreme heat,Wear lightweight, light-colored clothing
+Hypothermia,Dress in layers,Stay dry,Wear a hat and gloves,Limit time outdoors in extreme cold
+Frostbite,Wear insulated, waterproof clothing,Cover all exposed skin,Stay hydrated
+Drowning,Learn to swim,Never swim alone,Wear a life jacket on boats,Supervise children near water
+Choking,Cut food into small pieces,Chew food thoroughly,Supervise children while eating,Learn the Heimlich maneuver
+Food Poisoning,Wash hands before handling food,Cook meats to a safe temperature,Refrigerate leftovers promptly,Avoid cross-contamination
+Carbon Monoxide Poisoning,Install CO detectors,Have fuel-burning appliances serviced annually,Never use a generator indoors,Ensure proper ventilation
+Lead Poisoning,Avoid lead-based paint,Use a water filter,Wash hands and toys frequently,Be cautious with old plumbing
+Asbestosis,Avoid disturbing asbestos materials,Use a certified professional for removal,Wear a respirator in high-risk areas,Follow workplace safety rules
+Silicosis,Use dust control measures at work,Wear appropriate respiratory protection,Practice good personal hygiene,Participate in health monitoring programs
+Varicose Veins,Avoid prolonged standing or sitting,Exercise regularly,Maintain a healthy weight,Elevate your legs when resting
+Chronic Venous Insufficiency,Wear compression stockings,Elevate your legs,Exercise regularly,Maintain a healthy weight
+Anaphylaxis,Avoid known allergens,Carry an epinephrine auto-injector,Read food labels carefully,Wear a medical alert bracelet
+Seasonal Allergies,Monitor pollen counts,Keep windows closed,Use an air conditioner with a clean filter,Rinse off after being outside
+Food Allergies,Read ingredient labels carefully,Inform restaurants of your allergy,Avoid cross-contamination,Carry an epinephrine auto-injector
+Drug Allergy,Inform all healthcare providers of your allergy,Wear a medical alert bracelet,Know the names of drugs you are allergic to,Read medication labels
+Atopic Keratoconjunctivitis,Avoid allergens,Use cold compresses,Apply artificial tears,Take antihistamine eye drops
+Angioedema,Avoid triggers,Take antihistamines as prescribed,Carry epinephrine if advised,Monitor for swelling
+Urticaria (Hives),Identify and avoid triggers,Take antihistamines,Wear loose, comfortable clothing
+Keloids,Avoid unnecessary skin trauma (piercings),Treat acne and wounds promptly,Use silicone sheets on new scars,Discuss risks with your doctor
+Vitiligo,Use sunscreen to protect depigmented skin,Avoid skin injury,Consider cosmetic cover-ups,Manage stress
+Albinism,Protect skin and eyes from the sun,Wear protective clothing and sunscreen,Use sunglasses and hats,Get regular skin and eye exams
+Alopecia Areata,Reduce stress,Protect scalp from sun,Join a support group,Be gentle with your hair
+Male Pattern Baldness,Consider medical treatments (minoxidil),Be gentle with hair,Eat a balanced diet,Acceptance and cosmetic options
+Trichotillomania,Seek cognitive-behavioral therapy,Identify and manage triggers,Keep hands busy,Reduce stress
+Body Dysmorphic Disorder,Seek therapy (CBT),Practice mindfulness and self-compassion,Build a healthy support system,Limit mirror checking
+Hoarding Disorder,Seek professional therapy,Start small with decluttering,Create an organizational system,Get support from family and friends
+Oppositional Defiant Disorder (ODD),Seek family therapy,Use consistent discipline,Praise positive behavior,Set clear limits
+Conduct Disorder,Seek early intervention and therapy,Provide a structured and supportive environment,Teach problem-solving skills,Monitor peer relationships
+Tourette Syndrome,Educate yourself and others about TS,Reduce stress and anxiety,Identify and manage tic triggers,Seek behavioral therapy
+Down Syndrome,Engage in early intervention programs,Receive regular medical care,Provide an inclusive educational environment,Encourage social activities
+Turner Syndrome,Receive regular medical checkups,Consider hormone therapy,Monitor heart health,Get support for learning disabilities
+Klinefelter Syndrome,Seek early diagnosis and treatment,Consider testosterone replacement therapy,Get educational support,Address fertility issues early
+Marfan Syndrome,Get regular heart and eye checkups,Avoid contact sports,Wear a medical alert bracelet,Take medications to protect the aorta
+Ehlers-Danlos Syndrome,Protect joints from injury,Engage in low-impact exercise,Use braces or supports as needed,Be cautious with skin to prevent tearing
+Neurofibromatosis,Get regular medical checkups,Monitor for tumors and complications,Protect skin from injury,Seek genetic counseling
+Phenylketonuria (PKU),Follow a strict low-phenylalanine diet for life,Get regular blood tests,Avoid aspartame,Work with a metabolic dietitian
+Tay-Sachs Disease,Seek genetic counseling before conception,Provide supportive care,Manage symptoms,Join a support group
+Hemochromatosis,Get regular blood tests for iron levels,Donate blood regularly (phlebotomy),Avoid iron and vitamin C supplements,Limit alcohol intake
+Wilson's Disease,Take chelating medications,Follow a low-copper diet,Get regular medical monitoring,Consider genetic counseling for family
+Celiac Sprue,Adhere strictly to a gluten-free diet,Prevent cross-contamination in the kitchen,Read all food and medication labels,Monitor for nutritional deficiencies
+Lactose Intolerance,Avoid or limit milk and dairy products,Use lactose-free alternatives,Take lactase enzyme supplements,Read food labels for hidden lactose
+Fructose Malabsorption,Limit high-fructose foods (fruits, honey),Follow a low-FODMAP diet,Read food labels
+G6PD Deficiency,Avoid fava beans,Avoid certain medications (e.g., some sulfonamides),Avoid naphthalene (mothballs)
+Porphyria,Avoid triggers like certain drugs and alcohol,Protect skin from sunlight,Manage stress,Eat a balanced diet with adequate carbohydrates
+Sarcoidosis,Follow treatment plan,Don't smoke,Avoid environmental triggers,Maintain a healthy lifestyle
+Amyloidosis,Follow doctor's treatment for underlying condition,Manage symptoms,Eat a balanced diet,Get regular medical checkups
+Systemic Sclerosis,Keep skin moisturized,Protect hands and feet from cold,Manage acid reflux,Engage in physical therapy
+Polymyositis,Take prescribed medications,Engage in physical therapy,Pace your activities,Use assistive devices if needed
+Dermatomyositis,Protect skin from sun,Take prescribed medications,Engage in physical therapy,Get regular cancer screenings
+Myasthenia Gravis,Take medications on time,Pace activities and get rest,Avoid extreme temperatures,Wear a medical alert bracelet
+Guillain-Barre Syndrome,Seek immediate medical care,Follow rehabilitation plan,Prevent complications like blood clots,Get emotional support
+Bell's Palsy,Protect the affected eye from dryness,Use physical therapy for facial muscles,Manage pain,Get adequate rest
+Trigeminal Neuralgia,Avoid triggers (touching face, cold wind),Take prescribed medication,Explore surgical options
+Shingles (Herpes Zoster),Get the shingles vaccine,Seek early treatment with antivirals,Keep blisters clean,Manage pain
+Postherpetic Neuralgia,Follow pain management plan,Use topical treatments,Consider nerve blocks,Join a support group
+Fibrocystic Breast Changes,Reduce caffeine intake,Wear a supportive bra,Use warm or cold compresses,Perform regular breast self-exams
+Breast Cancer,Perform regular breast self-exams,Get regular mammograms,Maintain a healthy weight,Limit alcohol consumption
+Ovarian Cancer,Be aware of persistent symptoms (bloating, pain),Know your family history,Maintain a healthy weight
+Cervical Cancer,Get the HPV vaccine,Have regular Pap tests,Don't smoke,Practice safe sex
+Uterine (Endometrial) Cancer,Report any postmenopausal bleeding,Maintain a healthy weight,Manage diabetes,Discuss risks of hormone therapy
+Vaginal/Vulvar Cancer,Get the HPV vaccine,Perform regular self-exams,Report any unusual sores or itching,Don't smoke
+Bladder Cancer,Don't smoke,Limit exposure to certain chemicals,Drink plenty of fluids,Report blood in urine to a doctor
+Kidney (Renal) Cancer,Stop smoking,Maintain a healthy weight,Control high blood pressure,Avoid exposure to harmful chemicals
+Thyroid Cancer,Check your neck for lumps,Avoid unnecessary radiation exposure,Know your family history,Eat a balanced diet
+Adrenal Cancer,Monitor for hormonal imbalances,Seek genetic counseling if high-risk,Report unusual symptoms,Follow medical advice
+Pituitary Tumors,Report vision changes or headaches,Get regular checkups,Follow treatment for hormonal imbalances,Seek specialized medical care
+Brain Cancer,Avoid unnecessary radiation exposure,Be aware of persistent neurological symptoms,Know your family history,Maintain a healthy lifestyle
+Spinal Tumors,Report persistent, unexplained back pain,Note any new weakness or numbness,Seek prompt medical evaluation
+Bone Cancer,Report persistent bone pain or swelling,Protect against injury,Undergo regular checkups if high-risk,Maintain a healthy lifestyle
+Rhabdomyosarcoma,Be aware of lumps or swelling,Seek prompt medical care for children's symptoms,Follow treatment protocols,Participate in follow-up care
+Retinoblastoma,Attend regular infant eye exams,Look for a white pupil in photos,Know your family history,Seek immediate specialist care
+Wilms' Tumor,Attend regular well-child checkups,Be aware of abdominal swelling,Report blood in the urine,Follow pediatric cancer protocols
+Neuroblastoma,Attend well-child checkups,Report any unusual lumps or pain,Follow treatment plans carefully,Engage in long-term follow-up
+Testicular Torsion,Seek immediate medical care for severe testicular pain,Wear supportive gear during sports,Be aware of previous intermittent pain,Follow up after surgery
+Epididymitis,Practice safe sex,Treat UTIs promptly,Avoid heavy lifting with a full bladder,Seek medical care for scrotal pain
+Orchitis,Get vaccinated for mumps,Practice safe sex,Seek prompt treatment for urinary symptoms,Get adequate rest
+Hydrocele,Protect the scrotum from injury,Seek medical evaluation for swelling,Follow up as advised,Consider surgery if it becomes large
+Varicocele,Wear supportive underwear,Avoid prolonged standing,Consider surgical options for fertility issues,Manage any discomfort
+Balanitis,Practice good genital hygiene,Retract and clean the foreskin daily,Ensure the area is dry,Avoid harsh soaps
+Phimosis,Practice gentle stretching of the foreskin,Maintain good hygiene,Do not forcibly retract the foreskin,Seek medical advice if it causes problems
+Paraphimosis,Seek immediate medical attention,Maintain good hygiene,Ensure foreskin is returned after retraction,Use lubrication during sexual activity
+Peyronie's Disease,Avoid sexual activity that causes penile injury,Seek medical advice early,Consider available treatments,Communicate with your partner
+Priapism,Seek immediate medical attention for prolonged erections,Treat underlying medical conditions,Avoid misuse of erection-inducing drugs,Follow doctor's advice
+Inguinal Hernia,Use proper lifting techniques,Maintain a healthy weight,Avoid straining during bowel movements,Don't smoke
+Femoral Hernia,Maintain a healthy weight,Eat a high-fiber diet,Avoid heavy lifting,Treat persistent coughs
+Umbilical Hernia,Maintain a healthy weight,Avoid straining,Manage conditions that increase abdominal pressure,Seek medical advice
+Hiatal Hernia,Maintain a healthy weight,Avoid foods that cause heartburn,Eat small meals,Don't lie down after eating
+Incisional Hernia,Follow post-surgery activity restrictions,Use proper lifting techniques,Maintain a healthy weight,Support abdomen when coughing
+Abdominal Adhesions,Use minimally invasive surgery when possible,Handle tissues gently during surgery,Use adhesion barriers,Follow post-op instructions
+Intestinal Obstruction,Treat hernias and other causes,Eat a low-fiber diet if at risk,Seek immediate care for symptoms,Follow up on abdominal surgeries
+Volvulus,Seek immediate medical care for severe abdominal pain,Be aware of risk factors,Follow up after any abdominal surgery,Ensure proper nutrition in infants
+Intussusception,Seek immediate pediatric care for severe, colicky pain,Be aware of symptoms in infants,Follow up after reduction procedure
+Anal Fissure,Eat a high-fiber diet,Stay well-hydrated,Avoid straining during bowel movements,Keep the anal area clean and dry
+Anal Fistula,Treat underlying Crohn's disease or infection,Maintain good perianal hygiene,Seek medical treatment for abscesses,Follow up after surgery
+Perianal Abscess,Maintain good hygiene,Treat constipation,Protect the area from trauma,Seek prompt medical drainage
+Pilonidal Cyst,Keep the area clean and dry,Avoid prolonged sitting,Maintain a healthy weight,Remove hair from the area
+Esophagitis,Manage GERD,Avoid trigger foods,Take pills with plenty of water,Stop smoking
+Barrett's Esophagus,Manage GERD effectively,Get regular endoscopic surveillance,Maintain a healthy weight,Avoid tobacco and alcohol
+Mallory-Weiss Tear,Avoid forceful vomiting,Limit alcohol consumption,Treat conditions that cause vomiting,Seek care for blood in vomit
+Esophageal Varices,Treat underlying liver disease,Avoid alcohol,Take medications to lower blood pressure,Undergo regular screening
+Achalasia,Eat slowly and chew thoroughly,Drink plenty of water with meals,Sleep with your head elevated,Avoid eating before bed
+Gastroparesis,Eat small, frequent meals,Choose low-fat, low-fiber foods
+Dumping Syndrome,Eat small meals,Avoid liquids with meals,Lie down after eating,Limit high-sugar foods
+Bacterial Overgrowth Syndrome (SIBO),Treat underlying conditions,Follow a low-FODMAP diet,Take prescribed antibiotics,Consider prokinetics
+Short Bowel Syndrome,Work with a nutrition specialist,Stay hydrated,Take vitamin and mineral supplements,Monitor for complications
+Whipple's Disease,Take long-term antibiotic therapy,Get regular follow-up care,Monitor for neurological symptoms,Maintain good nutrition
+Tropical Sprue,Take antibiotics and folic acid,Maintain a balanced diet,Avoid travel to endemic areas if possible,Seek medical care for chronic diarrhea
+Ischemic Colitis,Maintain good cardiovascular health,Stay hydrated,Don't smoke,Manage blood pressure
+Thrombosed Hemorrhoid,Eat a high-fiber diet,Drink plenty of water,Avoid straining,Use stool softeners if needed
+Rectal Prolapse,Prevent constipation and straining,Do Kegel exercises,Maintain a healthy weight,Treat chronic cough
+Fecal Incontinence,Do Kegel exercises,Eat a high-fiber diet,Schedule bowel movements,Treat underlying causes like diarrhea
+Pruritus Ani (Anal Itching),Keep the area clean and dry,Avoid harsh soaps and vigorous wiping,Wear cotton underwear,Avoid irritant foods
+Condyloma (Anal Warts),Get the HPV vaccine,Practice safe sex,Don't smoke,Seek treatment to reduce transmission
+Bursitis of the Hip,Avoid repetitive stress on the hip,Stretch properly,Maintain a healthy weight,Strengthen hip muscles
+Snapping Hip Syndrome,Stretch hip flexors and IT band,Strengthen core and hip muscles,Modify activities to avoid the snap,Use ice after activity
+Meralgia Paresthetica,Wear loose clothing,Maintain a healthy weight,Avoid prolonged standing,Avoid direct pressure on the thigh
+Piriformis Syndrome,Stretch the piriformis muscle,Avoid sitting for long periods,Apply heat or cold packs,Get professional massage
+Sacroiliitis,Use proper posture,Engage in low-impact exercise,Stretch regularly,Avoid activities that strain the lower back
+Coccydynia (Tailbone Pain),Use a donut or wedge cushion,Avoid prolonged sitting,Apply ice or heat,Avoid constipation
+Degenerative Disc Disease,Maintain a healthy weight,Strengthen core muscles,Practice good posture,Avoid smoking
+Spinal Stenosis,Engage in physical therapy,Maintain a healthy weight,Use proper body mechanics,Consider epidural steroid injections
+Spondylolisthesis,Strengthen core muscles,Avoid high-impact sports,Maintain a healthy weight,Practice good posture
+Radiculopathy (Pinched Nerve),Maintain good posture,Avoid repetitive motions,Maintain a healthy weight,Use ergonomic workstations
+Myelopathy,Protect your spine from injury,Seek early treatment for spinal disorders,Maintain good posture,Follow up on any neurological symptoms
+Cauda Equina Syndrome,Seek immediate medical care for symptoms,Be cautious with heavy lifting,Treat herniated discs promptly,Report any new bowel/bladder issues
+Torticollis,Stretch neck muscles gently,Apply heat,Use proper posture at desks,Sleep with a supportive pillow
+Thoracic Outlet Syndrome,Practice good posture,Stretch chest and neck muscles,Strengthen shoulder blade muscles,Avoid carrying heavy bags on your shoulder
+Brachial Plexus Injury,Wear protective gear in sports,Drive safely,Avoid difficult childbirth deliveries if possible,Use caution with heavy machinery
+Erb's Palsy,Ensure careful delivery of newborns,Provide physical therapy for affected infants,Protect the arm from further injury,Encourage use of the affected arm
+Cubital Tunnel Syndrome,Avoid leaning on your elbow,Keep your elbow straight when sleeping,Avoid repetitive elbow bending,Use a padded brace
+Radial Tunnel Syndrome,Avoid repetitive wrist and forearm motions,Take frequent breaks,Use ergonomic tools,Stretch forearm muscles
+De Quervain's Tenosynovitis,Avoid repetitive thumb and wrist movements,Use a splint to rest the thumb,Avoid pinching with the thumb,Perform gentle stretching exercises
+Trigger Finger,Rest the affected finger,Avoid repetitive gripping actions,Wear a splint at night,Consider steroid injections
+Dupuytren's Contracture,Be aware of family history,Limit alcohol consumption,Monitor for thickening of palm tissue,Seek early medical advice
+Ganglion Cyst,Avoid repetitive stress to the wrist,Wear a brace if it causes pain,Monitor for changes,Seek medical treatment if it's painful
+Bunions (Hallux Valgus),Wear shoes with a wide toe box,Avoid high heels,Use pads to cushion the bunion,Maintain a healthy weight
+Hammertoe,Wear properly fitting shoes,Avoid shoes that are too short,Stretch your toes,Use cushions or pads
+Metatarsalgia,Wear shoes with good arch support,Use metatarsal pads,Maintain a healthy weight,Avoid high-impact activities
+Morton's Neuroma,Wear wide, comfortable shoes,Avoid high heels,Use arch supports or foot pads
+Achilles Tendonitis,Stretch your calf muscles daily,Increase training intensity gradually,Wear supportive shoes,Cross-train with low-impact activities
+Shin Splints,Wear proper footwear,Increase workout intensity slowly,Warm up before exercise,Run on softer surfaces
+Stress Fracture,Increase activity level gradually,Wear proper athletic shoes,Eat a diet rich in calcium and Vitamin D,Listen to your body and rest
+Compartment Syndrome,Seek immediate care for severe pain after injury,Increase exercise intensity gradually,Wear proper footwear,Stretch regularly
+Osgood-Schlatter Disease,Modify activities to reduce knee strain,Stretch quadriceps and hamstrings,Use a knee strap or pad,Apply ice after activity
+Patellofemoral Pain Syndrome,Strengthen quadriceps muscles,Stretch hamstrings and IT band,Wear appropriate shoes for your activity,Avoid deep squats
+Chondromalacia Patella,Strengthen the quadriceps,Avoid activities that stress the knee,Wear a knee brace for support,Maintain a healthy weight
+IT Band Syndrome,Stretch the iliotibial band,Strengthen hip abductor muscles,Avoid running on banked surfaces,Warm up thoroughly
+Meniscus Tear,Use caution when twisting or pivoting,Strengthen leg muscles,Warm up before exercise,Wear proper footwear
+ACL Sprain/Tear,Strengthen leg muscles (hamstrings/quads),Practice proper landing techniques,Wear appropriate footwear,Avoid sudden changes in direction
+PCL Sprain/Tear,Avoid direct blows to the front of the knee,Strengthen leg muscles,Use proper technique in sports,Wear protective gear
+MCL/LCL Sprain,Wear a brace during sports,Avoid hits to the side of the knee,Strengthen surrounding leg muscles,Use proper athletic technique
+Rotator Cuff Tear,Strengthen shoulder muscles,Avoid repetitive overhead lifting,Use proper form when lifting,Warm up before sports
+Shoulder Impingement,Maintain good posture,Strengthen rotator cuff muscles,Avoid repetitive overhead activities,Stretch chest muscles
+Frozen Shoulder (Adhesive Capsulitis),Manage diabetes,Stretch the shoulder gently,Seek physical therapy early,Keep the shoulder mobile
+Tennis Elbow (Lateral Epicondylitis),Use proper technique in sports/work,Strengthen forearm muscles,Wear a counterforce brace,Avoid overuse
+Golfer's Elbow (Medial Epicondylitis),Warm up before activity,Use proper form,Strengthen wrist flexors,Take breaks from repetitive gripping
+Little League Elbow,Limit pitch counts,Ensure proper throwing mechanics,Avoid playing through pain,Incorporate rest periods
+Rickets,Ensure adequate intake of Vitamin D and calcium,Get safe sun exposure,Eat a balanced diet,Use supplements if advised
+Osteomalacia,Get enough Vitamin D and calcium,Treat underlying digestive or kidney diseases,Get moderate sun exposure,Take supplements as prescribed
+Paget's Disease of Bone,Ensure adequate calcium and vitamin D,Exercise regularly,Prevent falls,Get regular medical checkups
+Osteomyelitis,Clean and care for wounds properly,Manage diabetes,Avoid illicit injectable drugs,Seek prompt treatment for infections
+Septic Arthritis,Treat infections elsewhere in the body promptly,Protect your joints from injury,Manage chronic illnesses,Seek immediate care for a hot
+Reactive Arthritis,Practice safe sex,Ensure food is handled and cooked properly,Treat infections promptly,Maintain good hygiene
+Kawasaki Disease,Seek prompt pediatric medical care for fever,Follow treatment plan carefully,Undergo regular heart checkups after illness,Be aware of symptoms
+Henoch-Schonlein Purpura,Treat preceding infections,Get adequate rest,Stay hydrated,Monitor for kidney complications
+Polyarteritis Nodosa,Follow treatment plan for underlying infections,Take prescribed medications,Report new symptoms to your doctor,Get regular checkups
+Granulomatosis with Polyangiitis,Take medications as prescribed,Get regular checkups,Protect your lungs from irritants,Report symptoms promptly
+Microscopic Polyangiitis,Adhere to immunosuppressive therapy,Monitor kidney function,Report lung symptoms immediately,Follow up regularly with a specialist
+Eosinophilic Granulomatosis with Polyangiitis,Manage asthma and allergies,Take medications as prescribed,Report new neurological or skin symptoms,Work closely with specialists
+Takayasu's Arteritis,Take prescribed medications,Monitor blood pressure in both arms,Get regular imaging studies,Report symptoms of poor circulation
+Giant Cell Arteritis,Seek immediate medical care for new headaches,Report any vision changes instantly,Take steroid medication as prescribed,Get regular follow-up care
+Behcet's Disease,Manage stress,Practice good oral hygiene,Take medications as prescribed,Protect your skin from injury
+CREST Syndrome,Protect hands from cold,Manage GERD,Keep skin moisturized,Engage in gentle stretching
+Mixed Connective Tissue Disease,Protect from sun and cold exposure,Take medications as directed,Pace your activities,Monitor for organ involvement
+Antiphospholipid Syndrome,Take anticoagulant medication as prescribed,Avoid prolonged immobility,Manage cardiovascular risk factors,Consult doctor before pregnancy
+Dermatofibroma,Avoid skin trauma,Monitor the lesion for changes,Protect it from irritation,Seek removal if it is bothersome
+Keratoacanthoma,Protect skin from sun exposure,Don't smoke,Monitor for recurrence after treatment,See a dermatologist regularly
+Sebaceous Cyst,Keep skin clean,Avoid squeezing or popping the cyst,Apply warm compresses to help it drain,Seek medical removal if it becomes inflamed
+Lipoma,Monitor for changes in size or texture,Seek removal if it is painful or growing rapidly,Protect the area from trauma,Maintain a healthy lifestyle
+Actinic Keratosis,Use sunscreen and wear protective clothing,Avoid peak sun hours,Check your skin regularly,Seek prompt dermatological treatment
+Dysplastic Nevus (Atypical Mole),Protect skin from UV radiation,Perform monthly skin self-exams,See a dermatologist for regular checks,Photograph moles to track changes
+Cherry Angioma,Protect skin from injury,Monitor for any bleeding,Seek cosmetic removal if desired,Maintain a healthy lifestyle
+Seborrheic Keratosis,Protect skin from sun,Avoid picking or scratching the growths,Keep skin moisturized,See a doctor if they become irritated
+Acanthosis Nigricans,Maintain a healthy weight,Manage insulin resistance and diabetes,Treat the underlying condition,Use topical retinoids if prescribed
+Melasma,Use broad-spectrum sunscreen daily,Wear a wide-brimmed hat,Use gentle skin care products,Consider topical lightening agents
+Photodermatitis,Avoid sun exposure during peak hours,Wear sun-protective clothing,Use a high-SPF, broad-spectrum sunscreen
+Polymorphous Light Eruption,Gradually increase sun exposure in spring,Use broad-spectrum sunscreen,Wear protective clothing,Take antihistamines before sun exposure
+Solar Urticaria,Avoid sun exposure,Wear tightly woven protective clothing,Use broad-spectrum sunscreen,Take high-dose antihistamines
+Xeroderma Pigmentosum,Practice complete sun avoidance,Wear UV-protective clothing and glasses,Use high-SPF sunscreen,Get frequent skin cancer screenings
+Ichthyosis Vulgaris,Moisturize skin frequently,Use mild soaps,Take lukewarm baths,Use a humidifier
+Keratosis Pilaris,Exfoliate gently,Moisturize regularly,Avoid harsh soaps,Use lotions with lactic or salicylic acid
+Pityriasis Rosea,Avoid overheating and sweating,Use lukewarm water for bathing,Apply anti-itch lotions,Wear soft
+Lichen Planus,Reduce stress,Avoid injury to your skin,Maintain good oral hygiene,Avoid foods that irritate your mouth
+Discoid Lupus Erythematosus,Avoid sun exposure,Use high-SPF sunscreen,Wear protective clothing,Don't smoke
+Erythema Multiforme,Treat underlying infections (like herpes),Avoid triggering medications,Manage symptoms with antihistamines,Use soothing mouthwashes
+Stevens-Johnson Syndrome (SJS),Know your medication allergies,Be cautious with high-risk drugs,Seek immediate care for rash with fever,Inform all doctors of your drug history
+Toxic Epidermal Necrolysis (TEN),Avoid known drug triggers,Be aware of SJS/TEN symptoms,Seek emergency medical care immediately,Inform all medical personnel of drug allergies
+Bullous Pemphigoid,Take prescribed medications,Keep skin clean to prevent infection,Be gentle with skin,Protect skin from trauma
+Pemphigus Vulgaris,Take immunosuppressants as prescribed,Practice meticulous oral hygiene,Eat a soft, non-irritating diet
+Dermatitis Herpetiformis,Follow a strict gluten-free diet,Take prescribed medications,Protect skin from injury,Get regular follow-ups
+Hidradenitis Suppurativa,Maintain a healthy weight,Stop smoking,Wear loose-fitting clothing,Practice good skin hygiene
+Folliculitis,Practice good hygiene,Avoid tight clothing,Shave with care and a clean razor,Avoid contaminated hot tubs
+Furuncle (Boil),Keep the area clean,Use warm compresses,Do not squeeze or pop it,Seek medical care if it worsens
+Carbuncle,See a doctor for treatment,Keep the area clean and covered,Wash hands after touching it,Do not share personal items
+Paronychia,Keep hands and feet dry,Avoid biting nails,Push cuticles back gently,Wear gloves for wet work
+Ingrown Toenail,Cut toenails straight across,Wear shoes that fit properly,Keep feet clean and dry,Avoid trauma to the toe
+Corns and Calluses,Wear properly fitting shoes,Use protective pads,Soak feet and use a pumice stone,Moisturize your feet
+Blisters,Wear well-fitting shoes,Keep feet dry,Use protective bandages on friction-prone areas,Break in new shoes gradually
+Warts,Avoid touching warts,Wash hands after touching a wart,Keep warts covered,Don't share personal items like towels
+Molluscum Contagiosum,Avoid scratching the bumps,Don't share towels or clothing,Keep the lesions covered,Practice good hygiene
+Herpes Simplex Virus 1 (Oral),Avoid kissing when a sore is present,Don't share utensils, drinks, or lip balm
+Herpes Simplex Virus 2 (Genital),Use condoms,Avoid sexual contact during outbreaks,Take antiviral medication,Disclose your status to partners
+Croup,Wash hands frequently,Get children vaccinated (flu, diphtheria),Use a cool-mist humidifier
+Epiglottitis,Get the Hib vaccine,Practice good hygiene,Avoid sharing cups or utensils,Seek immediate care for breathing difficulty
+Bronchiolitis,Wash hands often,Avoid contact with sick people,Keep infants away from crowds,Don't smoke around children
+Respiratory Syncytial Virus (RSV),Wash hands frequently,Clean and disinfect surfaces,Avoid close contact with sick individuals,Keep children home when sick
+Adenovirus Infection,Wash hands thoroughly,Avoid touching your face,Clean contaminated surfaces,Stay home when sick
+Rhinovirus (Common Cold),Wash your hands often,Avoid touching eyes, nose, and mouth
+Enterovirus Infection,Practice good hand hygiene,Avoid close contact with infected individuals,Clean and disinfect surfaces,Drink clean water
+Parainfluenza Virus Infection,Wash hands frequently,Cover coughs and sneezes,Avoid sharing personal items,Clean surfaces regularly
+Coronavirus (Non-COVID-19),Wash hands with soap and water,Avoid sick people,Don't touch your face with unwashed hands,Stay home if you feel unwell
+COVID-19,Get vaccinated and boosted,Wear a mask in crowded indoor spaces,Wash hands frequently,Isolate if you test positive
+SARS (Severe Acute Respiratory Syndrome),Practice diligent hand hygiene,Avoid contact with respiratory secretions,Wear a mask if symptomatic,Follow public health guidance
+MERS (Middle East Respiratory Syndrome),Avoid contact with camels,Practice good hand hygiene,Don't drink raw camel milk,Cook meat thoroughly
+Avian Influenza (Bird Flu),Avoid contact with sick or dead birds,Avoid poultry farms and live bird markets,Cook poultry and eggs thoroughly,Practice good hygiene
+Swine Flu (H1N1),Get the seasonal flu vaccine,Wash hands frequently,Cover your coughs and sneezes,Stay home when you are sick
+Legionnaires' Disease,Maintain and clean water systems properly,Avoid smoking,Maintain a healthy immune system,Be aware of risks from hot tubs and AC units
+Psittacosis,Handle birds in well-ventilated areas,Wear a mask when cleaning cages,Avoid mouth-to-beak contact,Buy birds from reputable sources
+Q Fever,Avoid contact with birthing animals,Don't drink unpasteurized milk,Use personal protective equipment on farms,Control ticks
+Tularemia,Use insect repellent,Avoid handling sick or dead animals,Wear gloves when handling game meat,Cook game meat thoroughly
+Brucellosis,Avoid unpasteurized dairy products,Wear gloves when handling animal tissues,Cook meat thoroughly,Vaccinate domestic animals
+Erysipelas,Keep skin clean and well-cared for,Treat any breaks in the skin promptly,Manage conditions like lymphedema,Wear proper footwear
+Necrotizing Fasciitis,Practice good wound care,Wash hands frequently,Avoid hot tubs/pools with open wounds,Seek immediate care for infected wounds
+Gas Gangrene,Clean all wounds thoroughly,Seek prompt medical care for deep wounds,Look for signs of infection,Follow up on diabetic foot care
+Foodborne Illness,Wash hands and surfaces often,Separate raw meats from other foods,Cook to the right temperature,Refrigerate foods promptly
+Traveler's Diarrhea,Eat and drink safely (bottled water, cooked foods),Wash hands often,Avoid street vendor food
+Cyclosporiasis,Avoid food or water contaminated with feces,Wash produce thoroughly,Follow safe food handling practices,Be cautious when traveling
+Cryptosporidiosis,Avoid swallowing water while swimming,Wash hands with soap and water,Don't swim if you have diarrhea,Drink filtered or boiled water
+Isosporiasis,Practice good hygiene,Drink safe, purified water,Wash fruits and vegetables well
+Balantidiasis,Ensure proper sanitation and pig husbandry,Avoid contamination of food/water by pig feces,Purify drinking water,Practice good personal hygiene
+Blastomycosis,Avoid disturbing soil in wooded areas,Wear a filtration mask for high-risk activities,Be aware of risks near waterways,Maintain a strong immune system
+Histoplasmosis,Avoid areas with bird or bat droppings,Spray contaminated areas with water to reduce dust,Wear a respirator mask in high-risk areas,Improve ventilation in chicken coops
+Coccidioidomycosis (Valley Fever),Avoid breathing in dust in endemic areas,Stay indoors during dust storms,Use air filtration,Wear a mask for outdoor work
+Aspergillosis,Avoid areas with decaying vegetation or dust,Use air filtration systems,Wear a mask in dusty environments,Take anti-fungal meds if immunocompromised
+Pneumocystis Pneumonia (PCP),Take prophylactic medication if immunocompromised,Maintain a strong immune system,Follow up regularly with healthcare provider,Avoid close contact with infected individuals
+Toxoplasmosis,Cook meat to a safe temperature,Avoid cleaning cat litter boxes if pregnant,Wash hands after handling raw meat,Wash fruits and vegetables
+Babesiosis,Use tick repellent in wooded areas,Wear protective clothing,Check for ticks after being outdoors,Have pets treated for ticks
+Leishmaniasis,Avoid outdoor activities at dusk and dawn,Use insect repellent,Sleep under a mosquito net,Wear protective clothing
+Chagas Disease,Avoid sleeping in mud or thatch houses,Use insecticide-soaked netting,Screen blood donations,Practice good hygiene
+African Trypanosomiasis (Sleeping Sickness),Use insect repellent,Wear neutral-colored, thick clothing,Inspect vehicles for tsetse flies
+Onchocerciasis (River Blindness),Use insect repellent,Wear protective clothing,Avoid areas near fast-flowing rivers,Participate in mass drug administration programs
+Loiasis,Use insect repellent (DEET),Wear long sleeves and pants,Use permethrin-treated clothing,Screen windows and doors
+Filariasis,Use mosquito nets,Use mosquito repellent,Eliminate mosquito breeding sites,Participate in mass drug administration
+Dracunculiasis (Guinea Worm Disease),Drink water only from safe sources,Filter all drinking water,Prevent infected people from entering water sources,Follow eradication program guidelines
+Trichinosis,Cook meat, especially pork and wild game, thoroughly,Freeze pork less than 6 inches thick for 20 day
+Taeniasis (Tapeworm),Cook meat and fish thoroughly,Practice good hygiene and handwashing,Ensure proper sanitation,Treat infected individuals promptly
+Cysticercosis,Practice good hand hygiene,Drink safe water,Wash and peel raw fruits and vegetables,Cook pork thoroughly
+Echinococcosis (Hydatid Disease),Don't consume food or water contaminated with dog feces,Wash hands after touching dogs,Do not allow dogs to eat viscera of sheep,Deworm dogs regularly
+Ascariasis,Wash hands before eating or preparing food,Avoid soil contaminated with human feces,Wash, peel
+Hookworm Infection,Wear shoes when walking on soil,Avoid contact with fecally contaminated soil,Improve sanitation,Treat infected persons
+Strongyloidiasis,Wear shoes to prevent skin contact with soil,Practice good sanitation,Avoid contaminated water,Seek treatment if infected
+Enterobiasis (Pinworm),Wash hands and fingernails thoroughly,Wash bedding and clothing in hot water,Encourage showering in the morning,Discourage nail-biting
+Trichuriasis (Whipworm),Wash hands with soap,Avoid ingesting soil,Wash and cook food properly,Improve sanitation
+Schistosomiasis,Avoid swimming or wading in freshwater in endemic areas,Drink safe water,Boil bathing water for one minute,Use snail control measures
+Fasciolopsiasis,Cook aquatic plants thoroughly,Avoid using human or pig feces as fertilizer,Maintain proper sanitation,Peel water chestnuts before eating
+Clonorchiasis (Chinese Liver Fluke),Cook freshwater fish thoroughly,Avoid eating raw or pickled freshwater fish,Improve sanitation to prevent fecal contamination,Do not use raw fish in dishes like sushi
+Fascioliasis,Avoid eating wild watercress and other raw aquatic plants,Drink safe water,Control snail populations,Keep livestock away from water sources
+Paragonimiasis (Lung Fluke),Cook freshwater crabs and crayfish thoroughly,Avoid eating raw or undercooked crustaceans,Avoid contaminating utensils with raw juices,Ensure proper food preparation
+Anisakiasis,Cook seafood to 145°F or freeze it properly,Avoid eating raw or undercooked fish and squid,Visually inspect seafood for worms,Purchase from reputable sources
+Diphyllobothriasis,Cook freshwater fish thoroughly,Freeze fish according to safety guidelines,Avoid raw fish dishes like sashimi from unsafe sources,Ensure proper disposal of sewage
+Beriberi (Thiamine Deficiency),Eat a balanced diet rich in thiamine,Limit alcohol consumption,Cook food in a way that preserves vitamins,Choose whole or enriched grains
+Pellagra (Niacin Deficiency),Eat a diet rich in niacin (meat, nuts, legumes),Avoid excessive alcohol consumption
+Scurvy (Vitamin C Deficiency),Eat plenty of fruits and vegetables,Don't overcook produce,Take a vitamin C supplement if needed,Don't smoke
+Vitamin K Deficiency,Eat green leafy vegetables,Maintain a healthy gut microbiome,Be cautious with anticoagulant drugs,Ensure newborns receive a vitamin K shot
+Zinc Deficiency,Eat zinc-rich foods (meat, shellfish, legumes),Soak or sprout grains and legumes
+Iodine Deficiency,Use iodized salt,Eat seafood and dairy products,Take iodine supplements if pregnant or deficient,Avoid excessive intake of goitrogens
+Kwashiorkor,Ensure adequate protein intake in diet,Breastfeed infants exclusively for 6 months,Provide a balanced diet to children,Seek nutritional support and education
+Marasmus,Ensure adequate intake of calories and protein,Provide nutritional rehabilitation,Treat underlying infections,Promote breastfeeding
+Cachexia,Treat the underlying chronic disease,Increase caloric and protein intake,Engage in light resistance exercise,Consider appetite stimulants
+Failure to Thrive,Ensure adequate nutrition and calorie intake,Address any feeding problems,Treat underlying medical conditions,Provide a supportive and nurturing environment
+Obesity,Eat a balanced, calorie-controlled diet,Engage in regular physical activity,Get adequate sleep
+Metabolic Syndrome,Maintain a healthy weight,Exercise regularly,Eat a heart-healthy diet,Don't smoke
+Hyperlipidemia (High Cholesterol),Eat a diet low in saturated and trans fats,Increase intake of soluble fiber,Exercise regularly,Maintain a healthy weight
+Hypertriglyceridemia,Limit sugar and refined carbohydrates,Maintain a healthy weight,Avoid alcohol,Eat omega-3 rich fish
+Familial Hypercholesterolemia,Get screened if you have a family history,Take statin medication as prescribed,Eat a low-saturated-fat diet,Exercise regularly
+Cardiomyopathy,Control high blood pressure,Limit alcohol,Eat a heart-healthy diet,Get regular exercise
+Myocarditis,Practice good hygiene to prevent infections,Get recommended vaccinations,Manage underlying inflammatory conditions,Seek prompt treatment for infections
+Pericarditis,Treat underlying infections and inflammatory disorders,Seek prompt medical care for chest pain,Rest during acute phases,Follow medical advice
+Endocarditis,Practice good dental hygiene,Avoid illicit IV drug use,Take prophylactic antibiotics if high-risk,Care for catheters and IV lines properly
+Valvular Heart Disease,Prevent rheumatic fever by treating strep throat,Control blood pressure and cholesterol,Maintain a healthy lifestyle,Get regular cardiac checkups
+Aortic Aneurysm,Don't smoke,Control high blood pressure,Eat a heart-healthy diet,Get screened if you have a family history
+Aortic Dissection,Control high blood pressure,Don't smoke,Avoid illicit stimulant drugs,Wear a seatbelt to prevent chest trauma
+Raynaud's Phenomenon,Keep hands and feet warm,Avoid cold exposure,Don't smoke,Manage stress
+Buerger's Disease,Stop all tobacco use immediately,Avoid cold environments,Prevent injury to hands and feet,Exercise to improve circulation
+Thrombocytopenia (Low Platelets),Avoid medications that can lower platelets,Limit alcohol,Protect yourself from injury,Be aware of signs of bleeding
+Thrombocytosis (High Platelets),Treat underlying conditions,Take medications to lower platelet count,Maintain a healthy lifestyle,Follow up with your hematologist
+Polycythemia Vera,Undergo regular phlebotomy,Take medications to reduce red blood cells,Manage itching and other symptoms,Control cardiovascular risk factors
+Essential Thrombocythemia,Take medications to lower platelet count,Manage risk factors for blood clots,Take low-dose aspirin if recommended,Report any new symptoms
+Myelofibrosis,Follow treatment plan (meds, transfusions),Manage symptoms like fatigue and anemia,Consider stem cell transplant
+Aplastic Anemia,Avoid exposure to toxic chemicals,Prevent infections,Undergo blood transfusions as needed,Consider bone marrow transplant
+Hemolytic Anemia,Treat underlying causes,Take prescribed medications (e.g., steroids),Avoid triggers if G6PD deficient
+Neutropenia,Practice excellent hygiene,Avoid people with infections,Cook food thoroughly,Seek immediate care for fever
+Leukocytosis,Treat the underlying infection or inflammation,Follow up on blood test results,Maintain a healthy lifestyle,Report persistent symptoms
+Splenomegaly (Enlarged Spleen),Treat the underlying medical condition,Avoid contact sports,Wear a seatbelt,Keep vaccinations up-to-date
+Hypersplenism,Treat the underlying cause,Monitor blood counts,Consider splenectomy if severe,Prevent infections
+Lymphedema,Avoid injury to the affected limb,Keep the limb clean and moisturized,Wear compression garments,Elevate the limb when possible
+Castleman Disease,Follow treatment plan (chemo, immunotherapy),Monitor for symptoms of infection,Get regular follow-up imaging
+Thymoma,Undergo surgical removal if possible,Follow up with radiation or chemotherapy,Monitor for myasthenia gravis,Get regular follow-up scans
+Waldenstrom Macroglobulinemia,Monitor symptoms and blood viscosity,Follow treatment plan if symptomatic,Prevent infections,Stay hydrated
+Multiple Myeloma,Follow chemotherapy and other treatments,Prevent and treat bone problems,Manage kidney function,Prevent infections
+Light Chain Amyloidosis (AL),Undergo treatment to stop amyloid production,Manage organ-specific symptoms,Work with a multidisciplinary medical team,Consider stem cell transplant
+Hodgkin's Lymphoma,Avoid known risk factors (e.g., EBV),Maintain a strong immune system,Get regular checkups
+Non-Hodgkin's Lymphoma,Avoid exposure to certain chemicals,Maintain a healthy immune system,Treat chronic infections,Get regular physical exams
+Burkitt Lymphoma,Prevent malaria and HIV/EBV infection,Seek prompt treatment for fast-growing tumors,Follow intensive chemotherapy protocols,Maintain good nutrition
+Acute Lymphoblastic Leukemia (ALL),Avoid high-dose radiation and certain chemicals,Follow chemotherapy regimen strictly,Prevent and manage infections,Consider stem cell transplant
+Acute Myeloid Leukemia (AML),Avoid smoking and exposure to benzene,Follow intensive chemotherapy treatment,Monitor blood counts closely,Prevent infections
+Chronic Lymphocytic Leukemia (CLL),Monitor for disease progression ("watch and wait"),Maintain a healthy lifestyle,Get vaccinated,Report infections or new symptoms
+Chronic Myeloid Leukemia (CML),Take tyrosine kinase inhibitor (TKI) medication daily,Monitor for side effects,Get regular blood tests (PCR),Adhere to lifelong therapy
+Hairy Cell Leukemia,Follow treatment plan (chemotherapy),Monitor for infections,Undergo blood transfusions if needed,Get regular follow-up care
+Myelodysplastic Syndromes (MDS),Avoid exposure to benzene and tobacco smoke,Undergo supportive care (transfusions),Consider chemotherapy or stem cell transplant,Join clinical trials
+Langerhans Cell Histiocytosis,Follow treatment plan (chemo, steroids),Avoid smoking (for pulmonary LCH),Get regular follow-up imaging
+Mastocytosis,Avoid triggers (heat, stress, certain foods),Carry an epinephrine auto-injector
+Hemophagocytic Lymphohistiocytosis (HLH),Treat underlying triggers (infections, cancers),Undergo immunosuppressive therapy,Consider stem cell transplant
+Iron Overload,Identify and treat the underlying cause,Undergo therapeutic phlebotomy,Avoid iron and vitamin C supplements,Limit alcohol intake
+Budd-Chiari Syndrome,Treat underlying clotting disorders,Take anticoagulant medication,Consider procedures to restore blood flow,Manage liver disease complications
+Portal Vein Thrombosis,Treat underlying causes like cirrhosis or cancer,Take anticoagulants,Manage complications like varices,Follow up with your medical team
+Splenic Infarction,Treat underlying conditions (e.g., sickle cell),Manage pain,Stay hydrated
+Renal Artery Stenosis,Control high blood pressure,Don't smoke,Manage diabetes and cholesterol,Consider angioplasty or stenting
+Atherosclerosis,Eat a heart-healthy diet,Exercise regularly,Don't smoke,Manage blood pressure and cholesterol
+Arteriosclerosis,Maintain a healthy diet and weight,Control high blood pressure,Don't smoke,Engage in regular physical activity
+Fibromuscular Dysplasia,Control high blood pressure,Don't smoke,Get regular imaging to monitor arteries,Be aware of stroke and aneurysm symptoms
+Vasculitis,Take immunosuppressive medications as prescribed,Monitor for side effects,Get regular checkups and lab tests,Report new or worsening symptoms
+Temporal Arteritis,Seek immediate care for new, severe headache,Report any vision changes immediately,Adhere to steroid treatment
+Cardiovascular Disease,Eat a healthy diet,Be physically active,Maintain a healthy weight,Quit smoking
+Cerebrovascular Disease,Control blood pressure,Manage cholesterol levels,Stop smoking,Maintain a healthy diet
+Intermittent Claudication,Quit smoking,Walk regularly,Manage diabetes and high blood pressure,Take prescribed medications
+Critical Limb Ischemia,Stop smoking immediately,Manage diabetes, blood pressure, and cholesterol
+Subarachnoid Hemorrhage,Control high blood pressure,Don't smoke,Avoid stimulant drug use,Seek immediate care for "worst headache of your life"
+Intracerebral Hemorrhage,Manage high blood pressure,Don't smoke,Limit alcohol consumption,Be cautious with blood thinners
+Ischemic Stroke,Control blood pressure, diabetes, and cholesterol,Stop smoking
+Transient Ischemic Attack (TIA),Seek immediate medical attention,Control cardiovascular risk factors,Take prescribed medications (e.g., aspirin)
+Vascular Dementia,Control blood pressure, cholesterol, and diabetes,Don't smoke
+Lewy Body Dementia,Take medications as prescribed,Create a safe and structured environment,Prevent falls,Manage sleep disturbances
+Frontotemporal Dementia,Provide a safe and predictable routine,Manage behavioral changes,Seek speech and occupational therapy,Join a caregiver support group
+Creutzfeldt-Jakob Disease,Avoid contaminated nervous system tissue,Ensure proper sterilization of surgical instruments,Do not donate blood or organs if at risk,Provide supportive care
+Kuru,Avoid practicing endocannibalism,Follow public health guidelines,Provide supportive care,Monitor neurological symptoms
+Fatal Familial Insomnia,Seek genetic counseling if there's a family history,Manage symptoms,Provide supportive care,Participate in research if possible
+Gerstmann-Straussler-Scheinker Syndrome,Get genetic counseling,Provide supportive care,Manage ataxia and cognitive decline,Join a patient registry
+Progressive Supranuclear Palsy,Use mobility aids to prevent falls,Get speech and swallowing therapy,Use eye drops for dry eyes,Take medications to manage symptoms
+Corticobasal Degeneration,Engage in physical and occupational therapy,Use assistive devices,Adapt the home for safety,Manage mood and cognitive changes
+Multiple System Atrophy,Manage orthostatic hypotension,Use mobility aids,Get swallowing and speech therapy,Treat sleep disorders
+Encephalitis,Prevent mosquito and tick bites,Get vaccinated (measles, mumps),Practice good hygiene
+Myelitis,Get recommended vaccinations,Prevent infections,Manage autoimmune diseases,Seek prompt care for neurological symptoms
+Abscess (Brain/Spinal),Treat infections (ear, sinus, dental) promptly,Take full course of antibiotics
+Hydrocephalus,Ensure good prenatal care,Prevent head injuries,Treat infections like meningitis promptly,Undergo shunt placement and follow-up
+Pseudotumor Cerebri,Lose weight if overweight,Follow a low-sodium diet,Take prescribed medications,Get regular eye exams
+Normal Pressure Hydrocephalus,Seek evaluation for gait, memory, and bladder issues,Undergo shunt surgery if recommended
+Tourette's Disorder,Provide education and support,Use behavioral therapy (CBIT),Manage co-occurring conditions (ADHD, OCD)
+Stereotypic Movement Disorder,Provide a safe environment,Use behavioral interventions,Address underlying anxiety or stress,Rule out other conditions
+Separation Anxiety Disorder,Use cognitive-behavioral therapy,Practice gradual separations,Maintain a calm and consistent routine,Involve the school in the treatment plan
+Social Anxiety Disorder,Challenge negative thoughts,Practice social situations gradually,Learn relaxation techniques,Seek cognitive-behavioral therapy
+Panic Disorder,Learn to recognize panic symptoms,Practice deep breathing exercises,Avoid caffeine and stimulants,Seek therapy (CBT)
+Agoraphobia,Gradually re-enter feared situations,Practice relaxation techniques,Challenge catastrophic thoughts,Build a strong support system
+Generalized Anxiety Disorder (GAD),Practice mindfulness and relaxation,Get regular exercise,Maintain a consistent sleep schedule,Seek therapy and/or medication
+Specific Phobia,Use exposure therapy,Learn coping techniques,Practice relaxation strategies,Challenge irrational fears
+Binge Eating Disorder,Follow a structured eating plan,Identify and manage triggers,Develop healthy coping skills,Seek therapy and nutritional counseling
+Anorexia Nervosa,Seek immediate medical and psychological treatment,Restore a healthy weight,Undergo family-based therapy,Address underlying body image issues
+Bulimia Nervosa,Seek professional help (therapy, nutrition),Establish regular eating patterns,Develop healthy coping mechanism
+Pica,Test for and treat nutritional deficiencies,Use behavioral interventions,Remove non-food items from the environment,Provide alternative oral stimulation
+Rumination Disorder,Use behavioral techniques,Practice diaphragmatic breathing after meals,Reduce stress around mealtimes,Address underlying psychological issues
+Avoidant/Restrictive Food Intake Disorder (ARFID),Use exposure therapy for new foods,Work with a feeding therapist and dietitian,Address sensory sensitivities,Rule out underlying medical issues
+Substance Use Disorder,Seek professional treatment and support groups,Avoid triggers and high-risk situations,Develop healthy coping strategies,Build a sober support network
+Gambling Disorder,Seek therapy (e.g., CBT),Join a support group like Gamblers Anonymous,Set up financial safeguards
+Internet Gaming Disorder,Set strict time limits for gaming,Engage in offline hobbies and social activities,Seek therapy to address underlying issues,Use parental controls and monitoring software
+Intermittent Explosive Disorder,Learn anger management techniques,Practice relaxation skills,Identify triggers for outbursts,Seek cognitive-behavioral therapy
+Kleptomania,Seek cognitive-behavioral therapy,Take prescribed medication,Develop strategies to resist urges,Join a support group
+Pyromania,Seek immediate psychological treatment,Address underlying emotional issues,Ensure a safe environment,Supervise closely
+Delusional Disorder,Encourage psychiatric treatment,Avoid confirming or denying delusions,Maintain a supportive relationship,Ensure safety
+Brief Psychotic Disorder,Provide a safe and calm environment,Seek immediate psychiatric evaluation,Administer antipsychotic medication,Address underlying stressors
+Schizophreniform Disorder,Seek early psychiatric intervention,Use antipsychotic medication and therapy,Provide family education and support,Monitor for transition to schizophrenia
+Schizoaffective Disorder,Use a combination of antipsychotics and mood stabilizers,Engage in psychotherapy,Maintain a stable routine,Build a strong support system
+Catatonia,Seek immediate medical treatment,Administer benzodiazepines or ECT,Treat the underlying medical or psychiatric condition,Ensure proper nutrition and hydration
+Personality Disorders,Engage in long-term psychotherapy,Develop healthy coping skills,Improve interpersonal effectiveness,Manage co-occurring conditions
+Paranoid Personality Disorder,Engage in therapy to build trust,Learn to challenge suspicious thoughts,Improve communication skills,Maintain consistent and reliable relationships
+Schizoid Personality Disorder,Respect the need for solitude,Engage in individual therapy,Gently encourage social skills development,Focus on solitary interests
+Schizotypal Personality Disorder,Engage in therapy and social skills training,Manage social anxiety,Treat co-occurring depression,Take low-dose antipsychotics if needed
+Antisocial Personality Disorder,Set firm and consistent boundaries,Engage in long-term therapy,Address substance use issues,Protect others from harm
+Borderline Personality Disorder,Engage in Dialectical Behavior Therapy (DBT),Learn emotion regulation skills,Develop a crisis safety plan,Maintain stable relationships
+Histrionic Personality Disorder,Seek psychotherapy,Learn to identify and manage emotions,Develop self-esteem not based on approval,Practice healthier ways of interacting
+Narcissistic Personality Disorder,Engage in long-term psychotherapy,Develop empathy and consider others' feelings,Learn to accept criticism,Address underlying insecurities
+Avoidant Personality Disorder,Use cognitive-behavioral therapy,Gradually engage in social situations,Challenge fears of rejection,Build self-esteem
+Dependent Personality Disorder,Engage in therapy to build independence,Learn assertiveness skills,Practice making small decisions,Develop self-confidence
+Obsessive-Compulsive Personality Disorder,Seek cognitive-behavioral therapy,Learn to be more flexible,Practice relaxation techniques,Delegate tasks and trust others
+Factitious Disorder,Seek psychiatric care,Address underlying emotional needs,Involve a multidisciplinary medical team,Be aware of doctor-shopping
+Conversion Disorder (Functional Neurological Symptom Disorder),Engage in physical and psychotherapy,Rule out other neurological conditions,Focus on improving function,Reduce stress
+Somatic Symptom Disorder,Establish a relationship with a primary care provider,Focus on coping with symptoms rather than cure,Treat co-occurring anxiety and depression,Use stress management techniques
+Illness Anxiety Disorder,Seek cognitive-behavioral therapy,Avoid excessive health research online,Establish a trusting relationship with one doctor,Practice stress and anxiety management
+Dissociative Identity Disorder,Engage in long-term, trauma-focused therapy,Develop coping skills for dissociation,Create a safe and stable environment
+Dissociative Amnesia,Provide a safe and supportive environment,Address underlying trauma or stress,Allow memories to return at their own pace,Rule out other causes of memory loss
+Depersonalization/Derealization Disorder,Practice grounding techniques,Reduce stress and anxiety,Address past trauma,Get adequate sleep
+Gender Dysphoria,Seek support from mental health professionals,Explore gender identity in a safe space,Consider social and/or medical transition,Build a supportive community
+Paraphilic Disorders,Engage in cognitive-behavioral therapy,Take medication to reduce sexual urges,Develop healthy sexual interests,Join a support group
+Sexual Dysfunction,Communicate openly with your partner,Rule out and treat underlying medical causes,Reduce stress and anxiety,Seek therapy or counseling
+Insomnia Disorder,Establish a regular sleep-wake cycle,Create a relaxing bedtime routine,Avoid stimulants like caffeine before bed,Make sure your bedroom is dark
+Hypersomnolence Disorder,Maintain a strict sleep schedule,Avoid alcohol and sedating medications,Take short naps if helpful,Take stimulant medication if prescribed
+Circadian Rhythm Sleep-Wake Disorders,Use bright light therapy in the morning,Maintain a consistent sleep schedule,Avoid light exposure at night,Take melatonin supplements as advised
+Parasomnias (Sleepwalking, Night Terrors),Ensure a safe sleeping environment,Get adequate sleep,Manage stress
+Nightmare Disorder,Practice stress reduction techniques,Use imagery rehearsal therapy,Avoid scary content before bed,Treat underlying PTSD or anxiety
+Oppositional Defiant Disorder (ODD),Engage in parent management training,Use consistent and positive discipline,Reinforce good behavior,Work with the child's school
+Intermittent Explosive Disorder (IED),Learn anger management skills,Identify triggers for explosive outbursts,Practice relaxation techniques,Consider medication for impulse control
+Adjustment Disorder,Develop healthy coping skills,Seek short-term counseling,Build a strong social support network,Engage in stress-reducing activities
+Acute Stress Disorder,Seek trauma-focused therapy shortly after the event,Practice grounding and relaxation techniques,Rely on your social support system,Ensure physical safety
+Prolonged Grief Disorder,Seek therapy specializing in grief,Allow yourself to experience grief without judgment,Find ways to honor the deceased,Reconnect with others and life
+Unspecified Trauma and Stressor-Related Disorder,Seek professional mental health support,Develop healthy coping strategies,Build a network of supportive people,Focus on self-care and stress reduction
+Unspecified Dissociative Disorder,Seek a thorough psychiatric evaluation,Engage in therapy to address symptoms,Rule out other medical causes,Develop grounding techniques
+Unspecified Somatic Symptom and Related Disorder,Work closely with a primary care physician,Avoid unnecessary medical tests,Focus on improving daily function,Address psychological distress
+Unspecified Feeding or Eating Disorder,Seek a comprehensive evaluation by specialists,Establish a regular and balanced eating pattern,Address body image and self-esteem issues,Get support from family and friends
+Unspecified Sleep-Wake Disorder,Keep a detailed sleep diary,Practice good sleep hygiene,Undergo a sleep study if recommended,Address any underlying health issues
+Unspecified Sexual Dysfunction,Have an open conversation with your partner(s),Get a medical check-up to rule out physical causes,Reduce stress and performance anxiety,Consider seeing a sex therapist
+Unspecified Disruptive, Impulse-Control, and Conduct Disorder,Seek a mental health evaluation,Implement clear and consistent boundaries
+Unspecified Neurocognitive Disorder,Get a comprehensive medical and neurological evaluation,Create a safe and structured environment,Simplify tasks and communication,Plan for future care needs
+Unspecified Personality Disorder,Engage in psychotherapy to improve interpersonal skills,Work on emotion regulation and distress tolerance,Develop healthier coping mechanisms,Maintain consistency in treatment
+Unspecified Depressive Disorder,Engage in regular physical activity,Maintain a healthy diet and sleep schedule,Connect with supportive friends and family,Seek professional counseling or therapy
+Unspecified Anxiety Disorder,Practice relaxation techniques like deep breathing,Reduce caffeine and alcohol intake,Challenge anxious thoughts,Talk to a therapist or counselor
+Unspecified Bipolar and Related Disorder,Track moods and symptoms daily,Maintain a stable daily routine for sleep and meals,Avoid alcohol and recreational drugs,Work closely with a psychiatrist
+Unspecified Schizophrenia Spectrum and Other Psychotic Disorder,Seek immediate psychiatric care,Create a low-stress environment,Ensure medication is taken as prescribed,Provide family support and education
+Unspecified Catatonia,Seek urgent medical and psychiatric care,Treat the underlying cause,Provide supportive care for nutrition and safety,Monitor vital signs closely
+Unspecified Obsessive-Compulsive and Related Disorder,Seek therapy, particularly CBT with ERP,Learn to manage stress,Resist performing compulsions
+Unspecified Neurodevelopmental Disorder,Seek a comprehensive developmental assessment,Engage in early intervention and therapies,Create a structured and predictable environment,Advocate for appropriate school accommodations
+Kleine-Levin Syndrome,Maintain a safe environment during episodes,Ensure adequate nutrition and hydration,Rule out other medical conditions,Provide support and education to the family
+Stiff-Person Syndrome,Take prescribed muscle relaxants and other medications,Engage in physical therapy and stretching,Avoid sudden movements or loud noises,Manage stress and anxiety
+Isaac's Syndrome,Take anticonvulsant medications as prescribed,Undergo plasma exchange or IVIG if recommended,Engage in physical therapy,Protect from injury during muscle spasms
+Parry-Romberg Syndrome,Seek multidisciplinary medical care,Consider reconstructive surgery,Monitor for neurological and eye complications,Join a patient support group
+Rasmussen's Encephalitis,Consider surgical treatment (hemispherectomy),Take anti-seizure and anti-inflammatory medications,Engage in intensive rehabilitation,Provide psychological support
+Moebius Syndrome,Receive multidisciplinary care (neurology, ophthalmology),Use special feeding techniques for infants,Engage in speech and physical therapy
+Fragile X Syndrome,Engage in early intervention services,Provide a structured learning environment,Manage behavioral issues with therapy,Seek genetic counseling
+Prader-Willi Syndrome,Maintain a strict, calorie-controlled diet,Secure all food sources,Engage in regular physical activity
+Angelman Syndrome,Provide a safe environment,Engage in communication therapy (non-verbal),Manage seizures with medication,Address sleep disturbances
+Rett Syndrome,Engage in intensive physical, occupational, and speech therapy,Manage seizures and breathing issues
+Williams Syndrome,Engage in speech and occupational therapy,Monitor for cardiovascular problems,Provide a structured and supportive learning environment,Teach social skills
+Noonan Syndrome,Monitor for heart defects and growth problems,Address feeding difficulties in infancy,Provide educational support,Seek genetic counseling
+DiGeorge Syndrome (22q11.2 Deletion),Monitor for heart problems and immune deficiency,Treat calcium level issues,Provide developmental and speech therapy,Address mental health concerns
+Cri-du-chat Syndrome,Engage in early and intensive therapy,Use sign language or other communication aids,Provide a supportive educational plan,Address behavioral challenges
+Edward's Syndrome (Trisomy 18),Provide palliative and supportive care,Address feeding and breathing difficulties,Seek support from specialized organizations,Make end-of-life care plans
+Patau Syndrome (Trisomy 13),Provide comfort and supportive care,Manage physical defects,Seek genetic counseling,Connect with support groups for families
+Bardet-Biedl Syndrome,Get regular eye and kidney function tests,Manage obesity with diet and exercise,Provide educational support for learning disabilities,Monitor for diabetes and hypertension
+Alport Syndrome,Monitor kidney function and hearing,Control blood pressure,Follow a low-salt diet,Seek genetic counseling
+Fabry Disease,Undergo enzyme replacement therapy (ERT),Manage pain with medication,Monitor heart and kidney function,Seek genetic counseling
+Gaucher Disease,Undergo enzyme replacement therapy or SRT,Monitor bone health and blood counts,Manage symptoms,Consider genetic counseling for family
+Niemann-Pick Disease,Provide supportive care,Manage symptoms like an enlarged spleen,Engage in physical therapy,Participate in clinical trials
+Pompe Disease,Undergo enzyme replacement therapy,Provide respiratory support,Engage in physical therapy,Monitor heart function
+Krabbe Disease,Provide supportive and palliative care,Manage pain and muscle spasticity,Ensure proper nutrition,Join a support network
+Metachromatic Leukodystrophy,Provide supportive care to manage symptoms,Consider bone marrow transplant in early stages,Engage in physical therapy,Plan for long-term care
+Adrenoleukodystrophy (ALD),Undergo newborn screening,Monitor with regular MRI scans,Consider bone marrow transplant or gene therapy,Take Lorenzo's oil if prescribed
+Canavan Disease,Provide supportive care,Manage seizures,Use a feeding tube for nutritional support,Engage in physical and occupational therapy
+Alexander Disease,Provide supportive care,Manage seizures and hydrocephalus,Engage in physical therapy,Ensure proper nutrition
+Joubert Syndrome,Engage in physical, occupational, and speech therapy,Monitor for breathing
+Meckel-Gruber Syndrome,Provide palliative and supportive care,Seek genetic counseling,Connect with support networks,Make end-of-life care decisions
+Zellweger Syndrome,Provide supportive care,Manage feeding difficulties and seizures,Protect from infections,Seek genetic counseling
+Leigh Syndrome,Provide symptomatic and supportive care,Ensure proper nutrition,Manage seizures and metabolic crises,Participate in clinical trials
+MELAS Syndrome,Manage seizures and stroke-like episodes,Take prescribed supplements (e.g., CoQ10),Engage in low-impact aerobic exercise
+MERRF Syndrome,Manage seizures and myoclonus,Engage in physical therapy,Monitor heart function,Take mitochondrial supplements as advised
+Kearns-Sayre Syndrome,Monitor heart for conduction blocks (pacemaker),Treat eye problems (ptosis surgery),Manage diabetes,Engage in physical therapy
+Von Gierke's Disease,Maintain normal blood glucose levels with cornstarch,Follow a specific diet plan,Monitor for liver and kidney complications,Avoid sucrose and fructose
+McArdle's Disease,Avoid strenuous, intense exercise,Engage in light-to-moderate aerobic activity,Consume a sugary drink before planned exercise
+Cori's Disease,Follow a high-protein diet,Eat frequent small meals,Avoid fasting,Monitor liver and muscle function
+Andersen's Disease,Provide supportive care,Consider liver transplantation,Manage liver and muscle complications,Ensure adequate nutrition
+Tarui's Disease,Avoid high-carbohydrate meals before exercise,Engage in moderate physical activity,Stay hydrated,Be aware of symptoms of rhabdomyolysis
+Lesch-Nyhan Syndrome,Manage self-injurious behavior,Take medication to lower uric acid levels,Stay well-hydrated,Use physical restraints as needed for safety
+Maple Syrup Urine Disease,Follow a strict diet low in certain amino acids,Undergo frequent blood tests,Manage metabolic crises promptly,Work with a metabolic dietitian
+Homocystinuria,Follow a special diet low in methionine,Take prescribed vitamin supplements,Monitor for blood clots and eye problems,Get regular medical checkups
+Galactosemia,Eliminate all milk and lactose from the diet for life,Read all food and medication labels,Use calcium supplements,Undergo regular monitoring for complications
+Hereditary Fructose Intolerance,Avoid all sources of fructose, sucrose, and sorbitol,Read food labels carefully
+Biotinidase Deficiency,Take daily biotin supplements for life,Undergo newborn screening,Educate family about the condition,Get regular follow-up care
+Medium-Chain Acyl-CoA Dehydrogenase Deficiency (MCADD),Avoid fasting,Ensure regular feedings for infants,Have an emergency plan for illness,Wear a medical alert bracelet
+Glutaric Acidemia Type 1,Follow a low-protein diet,Take prescribed supplements,Manage metabolic crises aggressively,Engage in physical therapy
+Propionic Acidemia,Adhere to a strict low-protein diet,Take prescribed medications and supplements,Manage metabolic crises,Monitor growth and development
+Methylmalonic Acidemia,Follow a low-protein diet,Take prescribed supplements (e.g., vitamin B12),Manage metabolic instability
+Carnitine Palmitoyltransferase II Deficiency,Avoid fasting and prolonged exercise,Eat a low-fat, high-carbohydrate diet,Stay hydrated
+Alpha-1 Antitrypsin Deficiency,Don't smoke and avoid secondhand smoke,Avoid environmental pollutants,Get vaccinated for flu and pneumonia,Undergo regular lung and liver function tests
+Primary Ciliary Dyskinesia,Perform daily airway clearance therapy,Treat respiratory infections aggressively,Get regular hearing and lung function tests,Avoid smoke and air pollutants
+Kartagener's Syndrome,Perform daily chest physiotherapy,Treat sinus and ear infections promptly,Monitor lung function,Seek fertility treatment if desired
+Alpha-Mannosidosis,Provide supportive care,Manage skeletal and hearing problems,Engage in physical therapy,Provide special educational support
+Aspartylglucosaminuria,Provide supportive care,Manage behavioral and cognitive issues,Engage in special education,Address skin and skeletal problems
+Fucosidosis,Provide symptomatic and supportive care,Manage neurological deterioration,Control seizures,Address skin lesions
+Galactosialidosis,Provide supportive care,Manage skeletal and vision problems,Monitor for seizures,Address heart and kidney issues
+Mucolipidosis II (I-Cell Disease),Provide supportive care for skeletal and heart issues,Manage respiratory and ear infections,Engage in physical therapy,Address developmental delays
+Mucopolysaccharidosis (MPS) I (Hurler Syndrome),Undergo enzyme replacement therapy or bone marrow transplant,Manage skeletal and joint problems,Address heart and respiratory complications,Provide developmental support
+MPS II (Hunter Syndrome),Undergo enzyme replacement therapy,Manage airway and cardiac complications,Address joint stiffness and skeletal issues,Provide special educational support
+MPS III (Sanfilippo Syndrome),Provide supportive care,Manage severe behavioral and sleep problems,Ensure a safe environment,Address hearing loss
+MPS IV (Morquio Syndrome),Manage severe skeletal abnormalities,Monitor for spinal cord compression,Address respiratory and cardiac issues,Use mobility aids
+MPS VI (Maroteaux-Lamy Syndrome),Undergo enzyme replacement therapy,Manage skeletal and joint problems,Address heart valve and corneal clouding issues,Monitor for spinal cord compression
+MPS VII (Sly Syndrome),Undergo enzyme replacement therapy,Provide supportive care for skeletal and organ issues,Address developmental delays,Monitor for hydrops fetalis
+Sphingolipidoses,Provide supportive and symptomatic care,Manage neurological and organ-specific symptoms,Engage in genetic counseling,Participate in research and clinical trials
+Glycogen Storage Diseases,Follow a specific, tailored diet plan,Avoid fasting,Monitor blood glucose and other metabolites
+Mitochondrial Encephalomyopathy,Provide symptomatic care,Take prescribed vitamins and cofactors,Engage in low-intensity exercise,Avoid metabolic stressors like illness and fasting
+Peroxisomal Disorders,Provide supportive care,Manage neurological and liver-related symptoms,Address feeding and vision problems,Seek genetic counseling
+Smith-Lemli-Opitz Syndrome,Take cholesterol supplements,Provide developmental and behavioral therapy,Manage feeding difficulties,Address physical abnormalities through surgery
+Treacher Collins Syndrome,Manage airway and feeding issues in infancy,Undergo reconstructive surgery,Address hearing loss with aids or implants,Provide speech therapy and psychosocial support
+Stickler Syndrome,Get regular eye exams to prevent retinal detachment,Monitor for hearing loss,Address joint hypermobility and arthritis,Manage craniofacial abnormalities
+Achondroplasia,Monitor for hydrocephalus and spinal cord compression,Address sleep apnea,Manage middle ear infections,Use adaptive aids to navigate an adult-sized world
+Osteogenesis Imperfecta,Prevent fractures through careful handling,Engage in low-impact physical therapy,Take medications to increase bone density,Use mobility aids
+Neuroblastoma,Undergo multi-modal therapy (chemo, surgery, radiation),Participate in clinical trials
+Retinoblastoma,Seek treatment from an ocular oncologist,Undergo chemotherapy, radiation, or enucleation
+Wilms' tumor,Undergo surgery, chemotherapy, and radiation,Follow treatment protocols from pediatric oncology groups
+Hepatoblastoma,Undergo surgery and chemotherapy,Consider liver transplant if unresectable,Monitor tumor markers (AFP),Follow up for recurrence and late effects
+Germ Cell Tumors,Undergo surgery and chemotherapy based on type,Monitor tumor markers,Receive long-term follow-up for relapse,Address fertility preservation before treatment
+Fever,get adequate rest,stay hydrated,take over-the-counter fever reducers,monitor temperature
+Cough,stay hydrated,use a humidifier,avoid irritants like smoke,cover your mouth when coughing
+Cancer,eat a healthy diet,maintain a healthy weight,get regular exercise,avoid tobacco and limit alcohol
+Lung Cancer,don't smoke,avoid secondhand smoke,test home for radon,avoid carcinogens at work
+Gastritis (Stomach Pain),avoid alcohol and spicy foods,eat smaller more frequent meals,manage stress,avoid long-term use of NSAIDs
+Gastroenteritis (Stomach Infection),wash hands frequently with soap,cook food thoroughly,drink safe water,avoid contaminated food
+Hepatitis (Liver Infection),get vaccinated (Hep A/B),practice safe sex,avoid sharing needles,practice good hygiene
+Heart Attack,control blood pressure,manage cholesterol,don't smoke,eat a heart-healthy diet
+Heart Failure,follow a low-sodium diet,take medications as prescribed,monitor daily weight,stay physically active
+Influenza (Body Pain),get annual flu vaccine,wash hands frequently,avoid touching face,stay home when sick
+Generalized Anxiety Disorder (Mental Disorder),practice relaxation techniques,get regular exercise,maintain a healthy diet,seek therapy and support
+Cold,wash hands frequently,avoid touching face,get adequate rest,stay hydrated
